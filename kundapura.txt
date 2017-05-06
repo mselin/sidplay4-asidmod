@@ -1,0 +1,2500 @@
+total 2208
+drwxr-xr-x@ 136 mselin  staff   4624 May  6 07:43 .
+	com.apple.quarantine	   71 
+drwxr-xr-x    7 mselin  staff    238 May  6 07:30 ..
+-rw-r--r--@   1 mselin  staff   6148 May  6 07:43 .DS_Store
+	com.apple.FinderInfo	   32 
+	com.apple.quarantine	   71 
+-rwxr-xr-x@   1 mselin  staff  14106 Apr 25  2009 AudioCoreDriver.cpp
+	com.apple.FinderInfo	   32 
+	com.apple.ResourceFork	  410 
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rwxr-xr-x@   1 mselin  staff   5574 Apr 25  2009 AudioCoreDriver.h
+	com.apple.FinderInfo	   32 
+	com.apple.ResourceFork	  410 
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff   1101 Apr 25  2009 AudioDriver.h
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rwxr-xr-x@   1 mselin  staff   6656 Mar 19  2008 AudioQueueDriver.cpp
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rwxr-xr-x@   1 mselin  staff   2874 Mar  1  2008 AudioQueueDriver.h
+	com.apple.FinderInfo	   32 
+	com.apple.ResourceFork	  410 
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rwxr-xr-x@   1 mselin  staff   5925 Mar  1  2008 AudioSoundManager.cpp
+	com.apple.FinderInfo	   32 
+	com.apple.ResourceFork	  410 
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rwxr-xr-x@   1 mselin  staff   2835 Mar  1  2008 AudioSoundManager.h
+	com.apple.FinderInfo	   32 
+	com.apple.ResourceFork	  410 
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+drwxr-xr-x@   9 mselin  staff    306 May  6 07:30 English.lproj
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff   2394 Jul 24  2016 Info.plist
+	com.apple.quarantine	   71 
+	com.apple.xcode.PlistType	   53 
+-rw-r--r--@   1 mselin  staff  16601 Nov 22  2015 PlayerLibSidplay.cpp
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff   5173 Aug 26  2009 PlayerLibSidplay.h
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+drwxr-xr-x@ 121 mselin  staff   4114 May  6 07:30 Resources
+	com.apple.quarantine	   71 
+drwxr-xr-x@   7 mselin  staff    238 May  6 07:31 SIDPLAY.xcodeproj
+	LastUpgradeCheck	    4 
+-rw-r--r--@   1 mselin  staff    145 Nov 15  2007 SIDPLAY_Prefix.pch
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff     81 Apr 27  2009 SPAnalyzerAdsrSideView.h
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff    747 Apr 28  2009 SPAnalyzerAdsrSideView.mm
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff    318 Apr 28  2009 SPAnalyzerAdsrView.h
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff   8425 May  7  2009 SPAnalyzerAdsrView.mm
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff     91 May 12  2009 SPAnalyzerFilterSettingsSideView.h
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff    767 May 13  2009 SPAnalyzerFilterSettingsSideView.mm
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff    293 May 12  2009 SPAnalyzerFilterSettingsView.h
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff   5950 May 13  2009 SPAnalyzerFilterSettingsView.mm
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff    109 Apr 10  2009 SPAnalyzerFrequencySideView.h
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff   2128 Apr 17  2009 SPAnalyzerFrequencySideView.mm
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff    337 Apr 26  2009 SPAnalyzerFrequencyView.h
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff   8608 Apr 27  2009 SPAnalyzerFrequencyView.mm
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff    141 Apr 21  2009 SPAnalyzerPulseWidthSideView.h
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff    604 Apr 21  2009 SPAnalyzerPulseWidthSideView.mm
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff    175 Apr 25  2009 SPAnalyzerPulseWidthView.h
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff   7386 May  8  2009 SPAnalyzerPulseWidthView.mm
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff    138 Apr 21  2009 SPAnalyzerSampleSideView.h
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff    585 Apr 21  2009 SPAnalyzerSampleSideView.mm
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff    109 Apr 25  2009 SPAnalyzerSampleView.h
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff   4353 May  4  2009 SPAnalyzerSampleView.mm
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff    288 Apr 21  2009 SPAnalyzerScaleSideView.h
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff   4074 Apr 21  2009 SPAnalyzerScaleSideView.mm
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff    181 Apr 22  2009 SPAnalyzerTimelineView.h
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff   5870 Apr 25  2009 SPAnalyzerTimelineView.mm
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff    109 Apr 26  2009 SPAnalyzerWaveformSideView.h
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff   2277 Apr 28  2009 SPAnalyzerWaveformSideView.mm
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff    285 Apr 27  2009 SPAnalyzerWaveformView.h
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff   6008 May 22  2009 SPAnalyzerWaveformView.mm
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff   6223 May 12  2009 SPAnalyzerWindowController.h
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff  32324 Oct  4  2015 SPAnalyzerWindowController.mm
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff    223 Feb  2  2008 SPApplicationStorageController.h
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff   3044 Oct 10  2015 SPApplicationStorageController.mm
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff   5644 Jun 29  2016 SPBrowserDataSource.h
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff  91898 Jul  4  2016 SPBrowserDataSource.mm
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff   1884 Sep 30  2015 SPBrowserItem.h
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff  12987 Nov 11  2015 SPBrowserItem.mm
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff    495 Mar  9  2008 SPBrowserState.h
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff   1578 Mar  9  2008 SPBrowserState.mm
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff    203 Apr 25  2009 SPCachedView.h
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff   2853 Oct  4  2015 SPCachedView.mm
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff   1057 Mar 19  2008 SPCollectionUtilities.h
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff  12672 Mar 18  2016 SPCollectionUtilities.mm
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff    412 Apr 18  2009 SPColorProvider.h
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff   4927 Apr 18  2009 SPColorProvider.mm
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff    470 Mar 17  2013 SPComposerPhotoView.h
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff   7961 Nov 10  2015 SPComposerPhotoView.mm
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff   1748 Jan 13  2009 SPExportController.h
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff  12123 Oct  1  2015 SPExportController.mm
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff   1626 Jan 13  2009 SPExportOptionsPanel.h
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff   9671 Oct  4  2015 SPExportOptionsPanel.mm
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff    124 Mar 22  2009 SPExportTaskWindow.h
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff   1983 Mar 22  2009 SPExportTaskWindow.mm
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff   3432 Jan 13  2009 SPExporter.h
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff  28595 Nov 12  2015 SPExporter.mm
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff   1157 Feb 13  2009 SPFilterControlView.h
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff  10216 Nov 16  2015 SPFilterControlView.mm
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff    121 Apr 24  2009 SPGradientBox.h
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff   1387 Nov  8  2015 SPGradientBox.mm
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff    805 Oct  9  2008 SPHttpBrowserItem.h
+	com.apple.FinderInfo	   32 
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff   8740 Feb 10  2009 SPHttpBrowserItem.mm
+	com.apple.FinderInfo	   32 
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff   1465 Nov 10  2015 SPInfoContainerView.h
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff  11780 Nov 16  2015 SPInfoContainerView.mm
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff    673 Nov  8  2015 SPInfoView.h
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff   9507 Nov 16  2015 SPInfoView.mm
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff    562 Mar 17  2013 SPInfoWindowController.h
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff   5568 Aug 25  2009 SPInfoWindowController.mm
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff    166 Mar  8  2008 SPMiniPlayerWindow.h
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff   1283 Oct  1  2015 SPMiniPlayerWindow.mm
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff   1250 Mar  1  2008 SPMixerView.h
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff   7657 Nov  8  2015 SPMixerView.mm
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff    185 Dec  1  2007 SPOscilloscopeView.h
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff   5534 Jun 30  2016 SPOscilloscopeView.mm
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff   5200 Oct  1  2015 SPPlayerWindow.h
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff  46015 Apr 16 16:36 SPPlayerWindow.mm
+	com.apple.TextEncoding	   15 
+	com.apple.metadata:kMDLabel_z3cevw2fts2z4arqxyhxio5i5q	  121 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff    656 Aug 23  2008 SPPlaylist.h
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff   4915 Oct  1  2015 SPPlaylist.mm
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff    526 Jan 25  2008 SPPlaylistItem.h
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff   2559 Jan 25  2008 SPPlaylistItem.mm
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff     86 Dec 18  2007 SPPredicateEditor.h
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff    942 Dec 18  2007 SPPredicateEditor.mm
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff    611 Aug  9  2008 SPPredicateEditorController.h
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff   3838 Aug 10  2008 SPPredicateEditorController.mm
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff   4393 Mar 28  2009 SPPreferencesController.h
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff  43116 Mar 18  2016 SPPreferencesController.mm
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff   1063 Oct  7  2015 SPRemixKwedOrgController.h
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff  11368 Oct  7  2015 SPRemixKwedOrgController.mm
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff    369 Nov 16  2015 SPSidRegisterView.h
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff   9779 Nov 16  2015 SPSidRegisterView.mm
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff    800 Aug 23  2008 SPSimplePlaylist.h
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff   7403 Aug 23  2008 SPSimplePlaylist.mm
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff    959 Oct  8  2015 SPSmartPlaylist.h
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff   9720 Jan 13  2009 SPSmartPlaylist.mm
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff    346 Nov 16  2007 SPSourceListCell.h
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff   6559 Nov  8  2015 SPSourceListCell.mm
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff   4863 Oct 10  2015 SPSourceListDataSource.h
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff  69234 Mar 18  2016 SPSourceListDataSource.mm
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff   2439 Sep 21  2008 SPSourceListItem.h
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff  17800 Oct  4  2015 SPSourceListItem.mm
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff   1985 Jul  2  2016 SPStatusDisplayView.h
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff  20535 Jul  3  2016 SPStatusDisplayView.mm
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff   1200 Mar 17  2013 SPStilBrowserController.h
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff  19462 Jul 15  2016 SPStilBrowserController.mm
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff    574 Apr  9  2009 SPSynchronizedScrollView.h
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff   6216 Apr  9  2009 SPSynchronizedScrollView.mm
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff    451 Oct 11  2015 SPTuneInfoView.h
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff  11087 Mar 18  2016 SPTuneInfoView.mm
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff   1014 Oct  9  2008 SPURLConnectionScheduler.h
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff   4300 Oct  9  2008 SPURLConnectionScheduler.mm
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff    571 Mar  1  2008 SPVisualizerView.h
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff   5138 Feb 13  2009 SPVisualizerView.mm
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+drwxr-xr-x@   8 mselin  staff    272 May  6 07:30 Sparkle.framework
+	com.apple.quarantine	   71 
+drwxr-xr-x@  13 mselin  staff    442 May  6 07:30 ThirdPartySources
+	com.apple.quarantine	   71 
+-rw-r--r--    1 mselin  staff      0 May  6 07:43 kundapura.txt
+drwxr-xr-x@   5 mselin  staff    170 May  6 07:30 lame
+	com.apple.quarantine	   71 
+drwxr-xr-x@  29 mselin  staff    986 May  6 07:30 libsidplay2
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff    309 Jul  1  2016 main.m
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+drwxr-xr-x@  67 mselin  staff   2278 May  6 07:30 resid
+	com.apple.quarantine	   71 
+drwxr-xr-x@   9 mselin  staff    306 May  6 07:30 sidmdplugin
+	com.apple.quarantine	   71 
+drwxr-xr-x@  18 mselin  staff    612 May  6 07:30 songlength
+	com.apple.quarantine	   71 
+
+./English.lproj:
+total 1000
+drwxr-xr-x@   9 mselin  staff     306 May  6 07:30 .
+	com.apple.quarantine	    71 
+drwxr-xr-x@ 136 mselin  staff    4624 May  6 07:43 ..
+	com.apple.quarantine	    71 
+-rw-r--r--@   1 mselin  staff   51823 Nov  8  2015 Analyzer.xib
+	com.apple.quarantine	    71 
+-rw-r--r--@   1 mselin  staff    1828 May 10  2009 Credits.rtf
+	com.apple.quarantine	    71 
+-rw-r--r--@   1 mselin  staff     208 Jul 24  2016 InfoPlist.strings
+	com.apple.TextEncoding	    10 
+	com.apple.quarantine	    71 
+-rw-r--r--@   1 mselin  staff  103519 Nov 22  2015 InfoWindow.xib
+	com.apple.quarantine	    71 
+-rw-r--r--@   1 mselin  staff  279206 Jul 12  2016 MainMenu.xib
+	com.apple.FinderInfo	    32 
+	com.apple.quarantine	    71 
+-rw-r--r--@   1 mselin  staff   47647 Nov  9  2015 Preferences.xib
+	com.apple.FinderInfo	    32 
+	com.apple.quarantine	    71 
+-rw-r--r--@   1 mselin  staff    8893 Jul 15  2016 StilBrowser.xib
+	com.apple.quarantine	    71 
+
+./Resources:
+total 3312
+drwxr-xr-x@ 121 mselin  staff    4114 May  6 07:30 .
+	com.apple.quarantine	    71 
+drwxr-xr-x@ 136 mselin  staff    4624 May  6 07:43 ..
+	com.apple.quarantine	    71 
+-rw-r--r--@   1 mselin  staff  116080 Feb  3  2008 DefaultVisualizer.qtz
+	com.apple.metadata:kMDItemWhereFroms	   139 
+	com.apple.quarantine	    71 
+-rw-r--r--@   1 mselin  staff   21118 Aug 23  2015 SoundToolbarItem.tiff
+	com.apple.quarantine	    71 
+-rw-r--r--    1 mselin  staff   61035 May  6 07:42 SyncToolbarItem.png
+-rw-r--r--    1 mselin  staff    2847 May  6 07:42 add.png
+-rw-r--r--    1 mselin  staff    2897 May  6 07:42 add@2x.png
+-rw-r--r--    1 mselin  staff    3116 May  6 07:42 add_smart.png
+-rw-r--r--    1 mselin  staff    3617 May  6 07:42 add_smart@2x.png
+-rw-r--r--@   1 mselin  staff     632 Mar 11  2008 button.tiff
+	com.apple.quarantine	    71 
+-rw-r--r--@   1 mselin  staff     618 Mar 11  2008 button_pressed.tiff
+	com.apple.quarantine	    71 
+-rw-r--r--    1 mselin  staff    1455 May 31  2008 capture.png
+-rw-r--r--    1 mselin  staff    1374 May 31  2008 capture_disabled.png
+-rw-r--r--    1 mselin  staff    2140 May 31  2008 capture_pressed.png
+-rw-r--r--    1 mselin  staff     305 May  6 07:42 disclosure_collapsed.png
+-rw-r--r--@   1 mselin  staff     558 Mar 11  2008 disclosure_collapsed.tiff
+	com.apple.quarantine	    71 
+-rw-r--r--    1 mselin  staff    3078 May  6 07:42 disclosure_collapsed@2x.png
+-rw-r--r--    1 mselin  staff     289 May  6 07:42 disclosure_expanded.png
+-rw-r--r--@   1 mselin  staff     546 Mar 11  2008 disclosure_expanded.tiff
+	com.apple.quarantine	    71 
+-rw-r--r--    1 mselin  staff    3091 May  6 07:42 disclosure_expanded@2x.png
+-rw-r--r--    1 mselin  staff     340 May  6 07:42 disclosure_transient.png
+-rw-r--r--@   1 mselin  staff     594 Mar 11  2008 disclosure_transient.tiff
+	com.apple.quarantine	    71 
+-rw-r--r--    1 mselin  staff    3113 May  6 07:42 disclosure_transient@2x.png
+-rw-r--r--    1 mselin  staff    3134 May  6 07:42 display_left.png
+-rw-r--r--    1 mselin  staff    3916 May  6 07:42 display_left@2x.png
+-rw-r--r--    1 mselin  staff    3131 May  6 07:42 display_middle.png
+-rw-r--r--    1 mselin  staff    3997 May  6 07:42 display_middle@2x.png
+-rw-r--r--    1 mselin  staff    3134 May  6 07:42 display_right.png
+-rw-r--r--    1 mselin  staff    3931 May  6 07:42 display_right@2x.png
+-rw-r--r--@   1 mselin  staff    1202 Mar 11  2008 dragBadge.tiff
+	com.apple.quarantine	    71 
+-rw-r--r--@   1 mselin  staff    2218 Jun 28  2016 dsa_pub.pem
+	com.apple.quarantine	    71 
+-rw-r--r--    1 mselin  staff    2984 May  6 07:42 fade.png
+-rw-r--r--    1 mselin  staff    2960 May  6 07:42 fade@2x.png
+-rw-r--r--    1 mselin  staff    2980 May  6 07:42 fade_pressed.png
+-rw-r--r--    1 mselin  staff    2957 May  6 07:42 fade_pressed@2x.png
+-rw-r--r--    1 mselin  staff     391 May  6 07:42 fingerCursor.png
+-rw-r--r--    1 mselin  staff    3991 May  6 07:42 fingerCursor@2x.png
+-rw-r--r--    1 mselin  staff    2822 May  6 07:42 hud_pause.png
+-rw-r--r--    1 mselin  staff    2847 May  6 07:42 hud_pause@2x.png
+-rw-r--r--    1 mselin  staff    3009 May  6 07:42 hud_play.png
+-rw-r--r--    1 mselin  staff    3222 May  6 07:42 hud_play@2x.png
+-rw-r--r--    1 mselin  staff    2809 May  6 07:42 hud_stop.png
+-rw-r--r--    1 mselin  staff    2825 May  6 07:42 hud_stop@2x.png
+-rw-r--r--    1 mselin  staff    3120 May  6 07:42 hud_warp.png
+-rw-r--r--    1 mselin  staff    3415 May  6 07:42 hud_warp@2x.png
+-rw-r--r--    1 mselin  staff    1255 May  6 07:42 keyboard.png
+-rw-r--r--@   1 mselin  staff       0 Nov 12  2015 log.txt
+	com.apple.quarantine	    71 
+-rw-r--r--@   1 mselin  staff   21901 Mar  8  2008 logo.qtz
+	com.apple.quarantine	    71 
+-rw-r--r--@   1 mselin  staff     476 Mar 11  2008 minus.tiff
+	com.apple.quarantine	    71 
+-rw-r--r--    1 mselin  staff    3327 May  6 07:42 notfound.png
+-rw-r--r--@   1 mselin  staff     436 Mar 11  2008 numberlarge0.tiff
+	com.apple.quarantine	    71 
+-rw-r--r--@   1 mselin  staff     380 Mar 11  2008 numberlarge1.tiff
+	com.apple.quarantine	    71 
+-rw-r--r--@   1 mselin  staff     416 Mar 11  2008 numberlarge2.tiff
+	com.apple.quarantine	    71 
+-rw-r--r--@   1 mselin  staff     400 Mar 11  2008 numberlarge3.tiff
+	com.apple.quarantine	    71 
+-rw-r--r--@   1 mselin  staff     426 Mar 11  2008 numberlarge4.tiff
+	com.apple.quarantine	    71 
+-rw-r--r--@   1 mselin  staff     416 Mar 11  2008 numberlarge5.tiff
+	com.apple.quarantine	    71 
+-rw-r--r--@   1 mselin  staff     418 Mar 11  2008 numberlarge6.tiff
+	com.apple.quarantine	    71 
+-rw-r--r--@   1 mselin  staff     388 Mar 11  2008 numberlarge7.tiff
+	com.apple.quarantine	    71 
+-rw-r--r--@   1 mselin  staff     432 Mar 11  2008 numberlarge8.tiff
+	com.apple.quarantine	    71 
+-rw-r--r--@   1 mselin  staff     424 Mar 11  2008 numberlarge9.tiff
+	com.apple.quarantine	    71 
+-rw-r--r--    1 mselin  staff    2977 May  6 07:42 playback_cursor.png
+-rw-r--r--    1 mselin  staff    3032 May  6 07:42 playlist.png
+-rw-r--r--    1 mselin  staff    3185 May  6 07:42 playlist@2x.png
+-rw-r--r--    1 mselin  staff     357 Apr 15  2009 point1.png
+-rw-r--r--    1 mselin  staff     347 Apr 15  2009 point2.png
+-rw-r--r--    1 mselin  staff     351 Apr 15  2009 point3.png
+-rw-r--r--@   1 mselin  staff  157998 Mar  3  2008 psid.icns
+	com.apple.FinderInfo	    32 
+	NSStoreType	    14 
+	NSStoreUUID	    36 
+	com.apple.quarantine	    71 
+-rwxr-xr-x@   1 mselin  staff  357780 Nov 12  2015 psid64
+	com.apple.quarantine	    71 
+-rw-r--r--    1 mselin  staff    3258 May  6 07:42 remixRating0.png
+-rw-r--r--    1 mselin  staff    4111 May  6 07:42 remixRating0@2x.png
+-rw-r--r--    1 mselin  staff    3444 May  6 07:42 remixRating1.png
+-rw-r--r--    1 mselin  staff    5013 May  6 07:42 remixRating1@2x.png
+-rw-r--r--    1 mselin  staff    3502 May  6 07:42 remixRating2.png
+-rw-r--r--    1 mselin  staff    5309 May  6 07:42 remixRating2@2x.png
+-rw-r--r--    1 mselin  staff    3475 May  6 07:42 remixRating3.png
+-rw-r--r--    1 mselin  staff    5141 May  6 07:42 remixRating3@2x.png
+-rw-r--r--    1 mselin  staff    3479 May  6 07:42 remixRating4.png
+-rw-r--r--    1 mselin  staff    5231 May  6 07:42 remixRating4@2x.png
+-rw-r--r--    1 mselin  staff    3445 May  6 07:42 remixRating5.png
+-rw-r--r--    1 mselin  staff    4892 May  6 07:42 remixRating5@2x.png
+-rw-r--r--    1 mselin  staff    3473 May  6 07:42 remixRating6.png
+-rw-r--r--    1 mselin  staff    4812 May  6 07:42 remixRating6@2x.png
+-rw-r--r--    1 mselin  staff    3067 May  6 07:42 repeat.png
+-rw-r--r--    1 mselin  staff    3366 May  6 07:42 repeat@2x.png
+-rw-r--r--    1 mselin  staff    3449 May  6 07:42 repeat_button.png
+-rw-r--r--    1 mselin  staff    3620 May  6 07:42 repeat_button@2x.png
+-rw-r--r--    1 mselin  staff    3489 May  6 07:42 repeat_button_pressed.png
+-rw-r--r--    1 mselin  staff    3655 May  6 07:42 repeat_button_pressed@2x.png
+-rw-r--r--@   1 mselin  staff   26424 Apr 22  2009 reverse.tiff
+	com.apple.FinderInfo	    32 
+	com.apple.ResourceFork	 23394 
+	com.apple.quarantine	    71 
+-rw-r--r--@   1 mselin  staff   26792 Apr 22  2009 reverse_pressed.tiff
+	com.apple.FinderInfo	    32 
+	com.apple.ResourceFork	 23992 
+	com.apple.quarantine	    71 
+-rw-r--r--@   1 mselin  staff     723 Nov  5  2015 scale_pause.svg
+	com.apple.metadata:kMDItemDownloadedDate	    53 
+	com.apple.metadata:kMDItemWhereFroms	    99 
+	com.apple.quarantine	    71 
+-rw-r--r--@   1 mselin  staff     463 Nov  5  2015 scale_play.svg
+	com.apple.metadata:kMDItemDownloadedDate	    53 
+	com.apple.metadata:kMDItemWhereFroms	    99 
+	com.apple.quarantine	    71 
+-rw-r--r--    1 mselin  staff    3300 May  6 07:42 shared_collection.png
+-rw-r--r--@   1 mselin  staff   29092 Aug 17  2008 sharing.tiff
+	com.apple.FinderInfo	    32 
+	com.apple.ResourceFork	 25898 
+	com.apple.quarantine	    71 
+-rw-r--r--    1 mselin  staff    3137 May  6 07:42 shuffle.png
+-rw-r--r--    1 mselin  staff    3472 May  6 07:42 shuffle@2x.png
+-rw-r--r--    1 mselin  staff    3133 May  6 07:42 shuffle_pressed.png
+-rw-r--r--    1 mselin  staff    3309 May  6 07:42 shuffle_pressed@2x.png
+-rw-r--r--@   1 mselin  staff  270145 Mar  3  2008 sidplay.icns
+	com.apple.FinderInfo	    32 
+	NSStoreType	    14 
+	NSStoreUUID	    36 
+	com.apple.quarantine	    71 
+-rw-r--r--    1 mselin  staff    4449 May  6 07:42 sidplay_logo.png
+-rw-r--r--    1 mselin  staff    3128 May  6 07:42 smart_playlist.png
+-rw-r--r--    1 mselin  staff    3512 May  6 07:42 smart_playlist@2x.png
+-rw-r--r--    1 mselin  staff    3190 May  6 07:42 sync.png
+-rw-r--r--    1 mselin  staff    3528 May  6 07:42 sync@2x.png
+-rw-r--r--    1 mselin  staff    2850 May  6 07:42 tempo_left.png
+-rw-r--r--    1 mselin  staff    2903 May  6 07:42 tempo_left@2x.png
+-rw-r--r--    1 mselin  staff    2875 May  6 07:42 tempo_right.png
+-rw-r--r--    1 mselin  staff    2966 May  6 07:42 tempo_right@2x.png
+-rw-r--r--@   1 mselin  staff     354 Mar 11  2008 timedivider.tiff
+	com.apple.quarantine	    71 
+-rw-r--r--    1 mselin  staff    9548 May  6 07:42 unknown_composer.png
+-rw-r--r--    1 mselin  staff    4358 May  6 07:42 voice1.png
+-rw-r--r--    1 mselin  staff    4335 May  6 07:42 voice1_off.png
+-rw-r--r--    1 mselin  staff    4359 May  6 07:42 voice2.png
+-rw-r--r--    1 mselin  staff    4322 May  6 07:42 voice2_off.png
+-rw-r--r--    1 mselin  staff    4426 May  6 07:42 voice3.png
+-rw-r--r--    1 mselin  staff    4405 May  6 07:42 voice3_off.png
+-rw-r--r--    1 mselin  staff    2925 May  6 07:42 volume_left.png
+-rw-r--r--    1 mselin  staff    3069 May  6 07:42 volume_left@2x.png
+-rw-r--r--    1 mselin  staff    3022 May  6 07:42 volume_right.png
+-rw-r--r--    1 mselin  staff    3252 May  6 07:42 volume_right@2x.png
+-rw-r--r--    1 mselin  staff    3080 May  6 07:42 waveform_side.png
+
+./SIDPLAY.xcodeproj:
+total 664
+drwxr-xr-x@   7 mselin  staff     238 May  6 07:31 .
+	LastUpgradeCheck	     4 
+drwxr-xr-x@ 136 mselin  staff    4624 May  6 07:43 ..
+	com.apple.quarantine	    71 
+-rw-r--r--    1 mselin  staff  169739 May  6 07:31 project.pbxproj
+drwxr-xr-x@   4 mselin  staff     136 Mar 21  2012 project.xcworkspace
+	com.apple.quarantine	    71 
+-r--r--r--@   1 mselin  staff  107404 Jun 14  2011 sid.pbxuser
+	com.apple.quarantine	    71 
+-r--r--r--@   1 mselin  staff   53982 Jun 14  2011 sid.perspectivev3
+	com.apple.quarantine	    71 
+drwxr-xr-x@   4 mselin  staff     136 May  6 07:30 xcuserdata
+	com.apple.quarantine	    71 
+
+./SIDPLAY.xcodeproj/project.xcworkspace:
+total 8
+drwxr-xr-x@ 4 mselin  staff  136 Mar 21  2012 .
+	com.apple.quarantine	 71 
+drwxr-xr-x@ 7 mselin  staff  238 May  6 07:31 ..
+	LastUpgradeCheck	  4 
+-r--r--r--@ 1 mselin  staff  152 Mar 21  2012 contents.xcworkspacedata
+	com.apple.quarantine	 71 
+drwxr-xr-x@ 4 mselin  staff  136 May  6 07:30 xcuserdata
+	com.apple.quarantine	 71 
+
+./SIDPLAY.xcodeproj/project.xcworkspace/xcuserdata:
+total 0
+drwxr-xr-x@ 4 mselin  staff  136 May  6 07:30 .
+	com.apple.quarantine	 71 
+drwxr-xr-x@ 4 mselin  staff  136 Mar 21  2012 ..
+	com.apple.quarantine	 71 
+drwxr-xr-x  3 mselin  staff  102 May  6 07:43 mselin.xcuserdatad
+drwxr-xr-x@ 3 mselin  staff  102 Apr 23 22:57 sid.xcuserdatad
+	com.apple.quarantine	 71 
+
+./SIDPLAY.xcodeproj/project.xcworkspace/xcuserdata/mselin.xcuserdatad:
+total 32
+drwxr-xr-x  3 mselin  staff    102 May  6 07:43 .
+drwxr-xr-x@ 4 mselin  staff    136 May  6 07:30 ..
+	com.apple.quarantine	   71 
+-rw-r--r--  1 mselin  staff  14103 May  6 07:43 UserInterfaceState.xcuserstate
+
+./SIDPLAY.xcodeproj/project.xcworkspace/xcuserdata/sid.xcuserdatad:
+total 40
+drwxr-xr-x@ 3 mselin  staff    102 Apr 23 22:57 .
+	com.apple.quarantine	   71 
+drwxr-xr-x@ 4 mselin  staff    136 May  6 07:30 ..
+	com.apple.quarantine	   71 
+-rw-r--r--@ 1 mselin  staff  18683 Apr 23 22:57 UserInterfaceState.xcuserstate
+	com.apple.quarantine	   71 
+
+./SIDPLAY.xcodeproj/xcuserdata:
+total 0
+drwxr-xr-x@ 4 mselin  staff  136 May  6 07:30 .
+	com.apple.quarantine	 71 
+drwxr-xr-x@ 7 mselin  staff  238 May  6 07:31 ..
+	LastUpgradeCheck	  4 
+drwxr-xr-x  3 mselin  staff  102 May  6 07:30 mselin.xcuserdatad
+drwxr-xr-x@ 4 mselin  staff  136 Oct  1  2015 sid.xcuserdatad
+	com.apple.quarantine	 71 
+
+./SIDPLAY.xcodeproj/xcuserdata/mselin.xcuserdatad:
+total 0
+drwxr-xr-x  3 mselin  staff  102 May  6 07:30 .
+drwxr-xr-x@ 4 mselin  staff  136 May  6 07:30 ..
+	com.apple.quarantine	 71 
+drwxr-xr-x  4 mselin  staff  136 May  6 07:30 xcschemes
+
+./SIDPLAY.xcodeproj/xcuserdata/mselin.xcuserdatad/xcschemes:
+total 16
+drwxr-xr-x  4 mselin  staff   136 May  6 07:30 .
+drwxr-xr-x  3 mselin  staff   102 May  6 07:30 ..
+-rw-r--r--  1 mselin  staff  3303 May  6 07:30 SIDPLAY.xcscheme
+-rw-r--r--  1 mselin  staff   479 May  6 07:30 xcschememanagement.plist
+
+./SIDPLAY.xcodeproj/xcuserdata/sid.xcuserdatad:
+total 0
+drwxr-xr-x@ 4 mselin  staff  136 Oct  1  2015 .
+	com.apple.quarantine	 71 
+drwxr-xr-x@ 4 mselin  staff  136 May  6 07:30 ..
+	com.apple.quarantine	 71 
+drwxr-xr-x@ 3 mselin  staff  102 Apr 16 16:40 xcdebugger
+	com.apple.quarantine	 71 
+drwxr-xr-x@ 4 mselin  staff  136 Jul 23  2016 xcschemes
+	com.apple.quarantine	 71 
+
+./SIDPLAY.xcodeproj/xcuserdata/sid.xcuserdatad/xcdebugger:
+total 8
+drwxr-xr-x@ 3 mselin  staff   102 Apr 16 16:40 .
+	com.apple.quarantine	  71 
+drwxr-xr-x@ 4 mselin  staff   136 Oct  1  2015 ..
+	com.apple.quarantine	  71 
+-rw-r--r--@ 1 mselin  staff  2254 Apr 16 16:40 Breakpoints_v2.xcbkptlist
+	com.apple.quarantine	  71 
+
+./SIDPLAY.xcodeproj/xcuserdata/sid.xcuserdatad/xcschemes:
+total 16
+drwxr-xr-x@ 4 mselin  staff   136 Jul 23  2016 .
+	com.apple.quarantine	  71 
+drwxr-xr-x@ 4 mselin  staff   136 Oct  1  2015 ..
+	com.apple.quarantine	  71 
+-r--r--r--@ 1 mselin  staff  3305 Jul 23  2016 SIDPLAY.xcscheme
+	com.apple.quarantine	  71 
+-r--r--r--@ 1 mselin  staff   479 Mar 21  2012 xcschememanagement.plist
+	com.apple.quarantine	  71 
+
+./Sparkle.framework:
+total 40
+drwxr-xr-x@   8 mselin  staff   272 May  6 07:30 .
+	com.apple.quarantine	  71 
+drwxr-xr-x@ 136 mselin  staff  4624 May  6 07:43 ..
+	com.apple.quarantine	  71 
+lrwxr-xr-x@   1 mselin  staff    24 May  6 07:30 Headers -> Versions/Current/Headers
+	com.apple.quarantine	  71 
+lrwxr-xr-x@   1 mselin  staff    24 May  6 07:30 Modules -> Versions/Current/Modules
+	com.apple.quarantine	  71 
+lrwxr-xr-x@   1 mselin  staff    31 May  6 07:30 PrivateHeaders -> Versions/Current/PrivateHeaders
+	com.apple.quarantine	  71 
+lrwxr-xr-x@   1 mselin  staff    26 May  6 07:30 Resources -> Versions/Current/Resources
+	com.apple.quarantine	  71 
+lrwxr-xr-x@   1 mselin  staff    24 May  6 07:30 Sparkle -> Versions/Current/Sparkle
+	com.apple.quarantine	  71 
+drwxr-xr-x@   4 mselin  staff   136 May  6 07:30 Versions
+	com.apple.quarantine	  71 
+
+./Sparkle.framework/Versions:
+total 8
+drwxr-xr-x@ 4 mselin  staff  136 May  6 07:30 .
+	com.apple.quarantine	 71 
+drwxr-xr-x@ 8 mselin  staff  272 May  6 07:30 ..
+	com.apple.quarantine	 71 
+drwxr-xr-x@ 7 mselin  staff  238 May  6 07:30 A
+	com.apple.quarantine	 71 
+lrwxr-xr-x@ 1 mselin  staff    1 May  6 07:30 Current -> A
+	com.apple.quarantine	 71 
+
+./Sparkle.framework/Versions/A:
+total 928
+drwxr-xr-x@  7 mselin  staff     238 May  6 07:30 .
+	com.apple.quarantine	    71 
+drwxr-xr-x@  4 mselin  staff     136 May  6 07:30 ..
+	com.apple.quarantine	    71 
+drwxr-xr-x@ 11 mselin  staff     374 May  6 07:30 Headers
+	com.apple.quarantine	    71 
+drwxr-xr-x@  3 mselin  staff     102 Mar 20  2016 Modules
+	com.apple.quarantine	    71 
+drwxr-xr-x@  3 mselin  staff     102 Mar 20  2016 PrivateHeaders
+	com.apple.quarantine	    71 
+drwxr-xr-x@ 38 mselin  staff    1292 May  6 07:30 Resources
+	com.apple.quarantine	    71 
+-rwxr-xr-x@  1 mselin  staff  472236 Mar 11  2016 Sparkle
+	com.apple.quarantine	    71 
+
+./Sparkle.framework/Versions/A/Headers:
+total 96
+drwxr-xr-x@ 11 mselin  staff    374 May  6 07:30 .
+	com.apple.quarantine	   71 
+drwxr-xr-x@  7 mselin  staff    238 May  6 07:30 ..
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff    590 Mar 11  2016 SUAppcast.h
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   1536 Mar 11  2016 SUAppcastItem.h
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   1034 Mar 11  2016 SUErrors.h
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff    302 Mar 11  2016 SUExport.h
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff    952 Mar 11  2016 SUStandardVersionComparator.h
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  12432 Mar 11  2016 SUUpdater.h
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff    703 Mar 11  2016 SUVersionComparisonProtocol.h
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff    577 Mar 11  2016 SUVersionDisplayProtocol.h
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff    626 Mar 11  2016 Sparkle.h
+	com.apple.quarantine	   71 
+
+./Sparkle.framework/Versions/A/Modules:
+total 8
+drwxr-xr-x@ 3 mselin  staff  102 Mar 20  2016 .
+	com.apple.quarantine	 71 
+drwxr-xr-x@ 7 mselin  staff  238 May  6 07:30 ..
+	com.apple.quarantine	 71 
+-rw-r--r--@ 1 mselin  staff   95 Mar 11  2016 module.modulemap
+	com.apple.quarantine	 71 
+
+./Sparkle.framework/Versions/A/PrivateHeaders:
+total 8
+drwxr-xr-x@ 3 mselin  staff  102 Mar 20  2016 .
+	com.apple.quarantine	 71 
+drwxr-xr-x@ 7 mselin  staff  238 May  6 07:30 ..
+	com.apple.quarantine	 71 
+-rw-r--r--@ 1 mselin  staff  941 Mar 11  2016 SUUnarchiver.h
+	com.apple.quarantine	 71 
+
+./Sparkle.framework/Versions/A/Resources:
+total 64
+drwxr-xr-x@ 38 mselin  staff   1292 May  6 07:30 .
+	com.apple.quarantine	   71 
+drwxr-xr-x@  7 mselin  staff    238 May  6 07:30 ..
+	com.apple.quarantine	   71 
+drwxr-xr-x@  3 mselin  staff    102 Mar 20  2016 Autoupdate.app
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   1234 Mar 11  2016 Info.plist
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  11859 Mar 11  2016 SUModelTranslation.plist
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   6572 Mar 11  2016 SUStatus.nib
+	com.apple.quarantine	   71 
+drwxr-xr-x@  6 mselin  staff    204 May  6 07:30 ar.lproj
+	com.apple.quarantine	   71 
+drwxr-xr-x@  3 mselin  staff    102 Mar 20  2016 ca.lproj
+	com.apple.quarantine	   71 
+drwxr-xr-x@  6 mselin  staff    204 May  6 07:30 cs.lproj
+	com.apple.quarantine	   71 
+drwxr-xr-x@  6 mselin  staff    204 May  6 07:30 da.lproj
+	com.apple.quarantine	   71 
+drwxr-xr-x@  6 mselin  staff    204 May  6 07:30 de.lproj
+	com.apple.quarantine	   71 
+drwxr-xr-x@  6 mselin  staff    204 May  6 07:30 el.lproj
+	com.apple.quarantine	   71 
+drwxr-xr-x@  6 mselin  staff    204 May  6 07:30 en.lproj
+	com.apple.quarantine	   71 
+drwxr-xr-x@  6 mselin  staff    204 May  6 07:30 es.lproj
+	com.apple.quarantine	   71 
+drwxr-xr-x@  3 mselin  staff    102 Mar 20  2016 fi.lproj
+	com.apple.quarantine	   71 
+drwxr-xr-x@  6 mselin  staff    204 May  6 07:30 fr.lproj
+	com.apple.quarantine	   71 
+lrwxr-xr-x@  1 mselin  staff      8 May  6 07:30 fr_CA.lproj -> fr.lproj
+	com.apple.quarantine	   71 
+drwxr-xr-x@  3 mselin  staff    102 Mar 20  2016 he.lproj
+	com.apple.quarantine	   71 
+drwxr-xr-x@  6 mselin  staff    204 May  6 07:30 is.lproj
+	com.apple.quarantine	   71 
+drwxr-xr-x@  6 mselin  staff    204 May  6 07:30 it.lproj
+	com.apple.quarantine	   71 
+drwxr-xr-x@  6 mselin  staff    204 May  6 07:30 ja.lproj
+	com.apple.quarantine	   71 
+drwxr-xr-x@  6 mselin  staff    204 May  6 07:30 ko.lproj
+	com.apple.quarantine	   71 
+drwxr-xr-x@  6 mselin  staff    204 May  6 07:30 nb.lproj
+	com.apple.quarantine	   71 
+drwxr-xr-x@  6 mselin  staff    204 May  6 07:30 nl.lproj
+	com.apple.quarantine	   71 
+drwxr-xr-x@  6 mselin  staff    204 May  6 07:30 pl.lproj
+	com.apple.quarantine	   71 
+lrwxr-xr-x@  1 mselin  staff     11 May  6 07:30 pt.lproj -> pt_BR.lproj
+	com.apple.quarantine	   71 
+drwxr-xr-x@  6 mselin  staff    204 May  6 07:30 pt_BR.lproj
+	com.apple.quarantine	   71 
+drwxr-xr-x@  6 mselin  staff    204 May  6 07:30 pt_PT.lproj
+	com.apple.quarantine	   71 
+drwxr-xr-x@  6 mselin  staff    204 May  6 07:30 ro.lproj
+	com.apple.quarantine	   71 
+drwxr-xr-x@  6 mselin  staff    204 May  6 07:30 ru.lproj
+	com.apple.quarantine	   71 
+drwxr-xr-x@  6 mselin  staff    204 May  6 07:30 sk.lproj
+	com.apple.quarantine	   71 
+drwxr-xr-x@  6 mselin  staff    204 May  6 07:30 sl.lproj
+	com.apple.quarantine	   71 
+drwxr-xr-x@  6 mselin  staff    204 May  6 07:30 sv.lproj
+	com.apple.quarantine	   71 
+drwxr-xr-x@  6 mselin  staff    204 May  6 07:30 th.lproj
+	com.apple.quarantine	   71 
+drwxr-xr-x@  6 mselin  staff    204 May  6 07:30 tr.lproj
+	com.apple.quarantine	   71 
+drwxr-xr-x@  6 mselin  staff    204 May  6 07:30 uk.lproj
+	com.apple.quarantine	   71 
+drwxr-xr-x@  6 mselin  staff    204 May  6 07:30 zh_CN.lproj
+	com.apple.quarantine	   71 
+drwxr-xr-x@  6 mselin  staff    204 May  6 07:30 zh_TW.lproj
+	com.apple.quarantine	   71 
+
+./Sparkle.framework/Versions/A/Resources/Autoupdate.app:
+total 0
+drwxr-xr-x@  3 mselin  staff   102 Mar 20  2016 .
+	com.apple.quarantine	  71 
+drwxr-xr-x@ 38 mselin  staff  1292 May  6 07:30 ..
+	com.apple.quarantine	  71 
+drwxr-xr-x@  6 mselin  staff   204 May  6 07:30 Contents
+	com.apple.quarantine	  71 
+
+./Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents:
+total 16
+drwxr-xr-x@  6 mselin  staff   204 May  6 07:30 .
+	com.apple.quarantine	  71 
+drwxr-xr-x@  3 mselin  staff   102 Mar 20  2016 ..
+	com.apple.quarantine	  71 
+-rw-r--r--@  1 mselin  staff  1522 Mar 11  2016 Info.plist
+	com.apple.quarantine	  71 
+drwxr-xr-x@  3 mselin  staff   102 Mar 20  2016 MacOS
+	com.apple.quarantine	  71 
+-rw-r--r--@  1 mselin  staff     8 Mar 11  2016 PkgInfo
+	com.apple.quarantine	  71 
+drwxr-xr-x@ 34 mselin  staff  1156 May  6 07:30 Resources
+	com.apple.quarantine	  71 
+
+./Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/MacOS:
+total 328
+drwxr-xr-x@ 3 mselin  staff     102 Mar 20  2016 .
+	com.apple.quarantine	    71 
+drwxr-xr-x@ 6 mselin  staff     204 May  6 07:30 ..
+	com.apple.quarantine	    71 
+-rwxr-xr-x@ 1 mselin  staff  166972 Mar 11  2016 Autoupdate
+	com.apple.quarantine	    71 
+
+./Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources:
+total 296
+drwxr-xr-x@ 34 mselin  staff    1156 May  6 07:30 .
+	com.apple.quarantine	    71 
+drwxr-xr-x@  6 mselin  staff     204 May  6 07:30 ..
+	com.apple.quarantine	    71 
+-rw-r--r--@  1 mselin  staff  139412 Mar 11  2016 AppIcon.icns
+	com.apple.quarantine	    71 
+-rw-r--r--@  1 mselin  staff    6572 Mar 11  2016 SUStatus.nib
+	com.apple.quarantine	    71 
+drwxr-xr-x@  3 mselin  staff     102 Mar 20  2016 ar.lproj
+	com.apple.quarantine	    71 
+drwxr-xr-x@  3 mselin  staff     102 Mar 20  2016 ca.lproj
+	com.apple.quarantine	    71 
+drwxr-xr-x@  3 mselin  staff     102 Mar 20  2016 cs.lproj
+	com.apple.quarantine	    71 
+drwxr-xr-x@  3 mselin  staff     102 Mar 20  2016 da.lproj
+	com.apple.quarantine	    71 
+drwxr-xr-x@  3 mselin  staff     102 Mar 20  2016 de.lproj
+	com.apple.quarantine	    71 
+drwxr-xr-x@  3 mselin  staff     102 Mar 20  2016 el.lproj
+	com.apple.quarantine	    71 
+drwxr-xr-x@  3 mselin  staff     102 Mar 20  2016 en.lproj
+	com.apple.quarantine	    71 
+drwxr-xr-x@  3 mselin  staff     102 Mar 20  2016 es.lproj
+	com.apple.quarantine	    71 
+drwxr-xr-x@  3 mselin  staff     102 Mar 20  2016 fi.lproj
+	com.apple.quarantine	    71 
+drwxr-xr-x@  3 mselin  staff     102 Mar 20  2016 fr.lproj
+	com.apple.quarantine	    71 
+drwxr-xr-x@  3 mselin  staff     102 Mar 20  2016 he.lproj
+	com.apple.quarantine	    71 
+drwxr-xr-x@  3 mselin  staff     102 Mar 20  2016 is.lproj
+	com.apple.quarantine	    71 
+drwxr-xr-x@  3 mselin  staff     102 Mar 20  2016 it.lproj
+	com.apple.quarantine	    71 
+drwxr-xr-x@  3 mselin  staff     102 Mar 20  2016 ja.lproj
+	com.apple.quarantine	    71 
+drwxr-xr-x@  3 mselin  staff     102 Mar 20  2016 ko.lproj
+	com.apple.quarantine	    71 
+drwxr-xr-x@  3 mselin  staff     102 Mar 20  2016 nb.lproj
+	com.apple.quarantine	    71 
+drwxr-xr-x@  3 mselin  staff     102 Mar 20  2016 nl.lproj
+	com.apple.quarantine	    71 
+drwxr-xr-x@  3 mselin  staff     102 Mar 20  2016 pl.lproj
+	com.apple.quarantine	    71 
+drwxr-xr-x@  3 mselin  staff     102 Mar 20  2016 pt_BR.lproj
+	com.apple.quarantine	    71 
+drwxr-xr-x@  3 mselin  staff     102 Mar 20  2016 pt_PT.lproj
+	com.apple.quarantine	    71 
+drwxr-xr-x@  3 mselin  staff     102 Mar 20  2016 ro.lproj
+	com.apple.quarantine	    71 
+drwxr-xr-x@  3 mselin  staff     102 Mar 20  2016 ru.lproj
+	com.apple.quarantine	    71 
+drwxr-xr-x@  3 mselin  staff     102 Mar 20  2016 sk.lproj
+	com.apple.quarantine	    71 
+drwxr-xr-x@  3 mselin  staff     102 Mar 20  2016 sl.lproj
+	com.apple.quarantine	    71 
+drwxr-xr-x@  3 mselin  staff     102 Mar 20  2016 sv.lproj
+	com.apple.quarantine	    71 
+drwxr-xr-x@  3 mselin  staff     102 Mar 20  2016 th.lproj
+	com.apple.quarantine	    71 
+drwxr-xr-x@  3 mselin  staff     102 Mar 20  2016 tr.lproj
+	com.apple.quarantine	    71 
+drwxr-xr-x@  3 mselin  staff     102 Mar 20  2016 uk.lproj
+	com.apple.quarantine	    71 
+drwxr-xr-x@  3 mselin  staff     102 Mar 20  2016 zh_CN.lproj
+	com.apple.quarantine	    71 
+drwxr-xr-x@  3 mselin  staff     102 Mar 20  2016 zh_TW.lproj
+	com.apple.quarantine	    71 
+
+./Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/ar.lproj:
+total 16
+drwxr-xr-x@  3 mselin  staff   102 Mar 20  2016 .
+	com.apple.quarantine	  71 
+drwxr-xr-x@ 34 mselin  staff  1156 May  6 07:30 ..
+	com.apple.quarantine	  71 
+-rw-r--r--@  1 mselin  staff  8076 Mar 11  2016 Sparkle.strings
+	com.apple.quarantine	  71 
+
+./Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/ca.lproj:
+total 16
+drwxr-xr-x@  3 mselin  staff   102 Mar 20  2016 .
+	com.apple.quarantine	  71 
+drwxr-xr-x@ 34 mselin  staff  1156 May  6 07:30 ..
+	com.apple.quarantine	  71 
+-rw-r--r--@  1 mselin  staff  6310 Mar 11  2016 Sparkle.strings
+	com.apple.quarantine	  71 
+
+./Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/cs.lproj:
+total 16
+drwxr-xr-x@  3 mselin  staff   102 Mar 20  2016 .
+	com.apple.quarantine	  71 
+drwxr-xr-x@ 34 mselin  staff  1156 May  6 07:30 ..
+	com.apple.quarantine	  71 
+-rw-r--r--@  1 mselin  staff  7440 Mar 11  2016 Sparkle.strings
+	com.apple.quarantine	  71 
+
+./Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/da.lproj:
+total 16
+drwxr-xr-x@  3 mselin  staff   102 Mar 20  2016 .
+	com.apple.quarantine	  71 
+drwxr-xr-x@ 34 mselin  staff  1156 May  6 07:30 ..
+	com.apple.quarantine	  71 
+-rw-r--r--@  1 mselin  staff  7996 Mar 11  2016 Sparkle.strings
+	com.apple.quarantine	  71 
+
+./Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/de.lproj:
+total 16
+drwxr-xr-x@  3 mselin  staff   102 Mar 20  2016 .
+	com.apple.quarantine	  71 
+drwxr-xr-x@ 34 mselin  staff  1156 May  6 07:30 ..
+	com.apple.quarantine	  71 
+-rw-r--r--@  1 mselin  staff  8046 Mar 11  2016 Sparkle.strings
+	com.apple.quarantine	  71 
+
+./Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/el.lproj:
+total 16
+drwxr-xr-x@  3 mselin  staff   102 Mar 20  2016 .
+	com.apple.quarantine	  71 
+drwxr-xr-x@ 34 mselin  staff  1156 May  6 07:30 ..
+	com.apple.quarantine	  71 
+-rw-r--r--@  1 mselin  staff  7338 Mar 11  2016 Sparkle.strings
+	com.apple.quarantine	  71 
+
+./Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/en.lproj:
+total 24
+drwxr-xr-x@  3 mselin  staff   102 Mar 20  2016 .
+	com.apple.quarantine	  71 
+drwxr-xr-x@ 34 mselin  staff  1156 May  6 07:30 ..
+	com.apple.quarantine	  71 
+-rw-r--r--@  1 mselin  staff  9108 Mar 11  2016 Sparkle.strings
+	com.apple.quarantine	  71 
+
+./Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/es.lproj:
+total 16
+drwxr-xr-x@  3 mselin  staff   102 Mar 20  2016 .
+	com.apple.quarantine	  71 
+drwxr-xr-x@ 34 mselin  staff  1156 May  6 07:30 ..
+	com.apple.quarantine	  71 
+-rw-r--r--@  1 mselin  staff  7746 Mar 11  2016 Sparkle.strings
+	com.apple.quarantine	  71 
+
+./Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/fi.lproj:
+total 16
+drwxr-xr-x@  3 mselin  staff   102 Mar 20  2016 .
+	com.apple.quarantine	  71 
+drwxr-xr-x@ 34 mselin  staff  1156 May  6 07:30 ..
+	com.apple.quarantine	  71 
+-rw-r--r--@  1 mselin  staff  5614 Mar 11  2016 Sparkle.strings
+	com.apple.quarantine	  71 
+
+./Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/fr.lproj:
+total 16
+drwxr-xr-x@  3 mselin  staff   102 Mar 20  2016 .
+	com.apple.quarantine	  71 
+drwxr-xr-x@ 34 mselin  staff  1156 May  6 07:30 ..
+	com.apple.quarantine	  71 
+-rw-r--r--@  1 mselin  staff  8188 Mar 11  2016 Sparkle.strings
+	com.apple.quarantine	  71 
+
+./Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/he.lproj:
+total 16
+drwxr-xr-x@  3 mselin  staff   102 Mar 20  2016 .
+	com.apple.quarantine	  71 
+drwxr-xr-x@ 34 mselin  staff  1156 May  6 07:30 ..
+	com.apple.quarantine	  71 
+-rw-r--r--@  1 mselin  staff  4872 Mar 11  2016 Sparkle.strings
+	com.apple.quarantine	  71 
+
+./Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/is.lproj:
+total 16
+drwxr-xr-x@  3 mselin  staff   102 Mar 20  2016 .
+	com.apple.quarantine	  71 
+drwxr-xr-x@ 34 mselin  staff  1156 May  6 07:30 ..
+	com.apple.quarantine	  71 
+-rw-r--r--@  1 mselin  staff  5478 Mar 11  2016 Sparkle.strings
+	com.apple.quarantine	  71 
+
+./Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/it.lproj:
+total 16
+drwxr-xr-x@  3 mselin  staff   102 Mar 20  2016 .
+	com.apple.quarantine	  71 
+drwxr-xr-x@ 34 mselin  staff  1156 May  6 07:30 ..
+	com.apple.quarantine	  71 
+-rw-r--r--@  1 mselin  staff  7926 Mar 11  2016 Sparkle.strings
+	com.apple.quarantine	  71 
+
+./Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/ja.lproj:
+total 16
+drwxr-xr-x@  3 mselin  staff   102 Mar 20  2016 .
+	com.apple.quarantine	  71 
+drwxr-xr-x@ 34 mselin  staff  1156 May  6 07:30 ..
+	com.apple.quarantine	  71 
+-rw-r--r--@  1 mselin  staff  7818 Mar 11  2016 Sparkle.strings
+	com.apple.quarantine	  71 
+
+./Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/ko.lproj:
+total 16
+drwxr-xr-x@  3 mselin  staff   102 Mar 20  2016 .
+	com.apple.quarantine	  71 
+drwxr-xr-x@ 34 mselin  staff  1156 May  6 07:30 ..
+	com.apple.quarantine	  71 
+-rw-r--r--@  1 mselin  staff  5874 Mar 11  2016 Sparkle.strings
+	com.apple.quarantine	  71 
+
+./Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/nb.lproj:
+total 24
+drwxr-xr-x@  3 mselin  staff   102 Mar 20  2016 .
+	com.apple.quarantine	  71 
+drwxr-xr-x@ 34 mselin  staff  1156 May  6 07:30 ..
+	com.apple.quarantine	  71 
+-rw-r--r--@  1 mselin  staff  9004 Mar 11  2016 Sparkle.strings
+	com.apple.quarantine	  71 
+
+./Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/nl.lproj:
+total 24
+drwxr-xr-x@  3 mselin  staff   102 Mar 20  2016 .
+	com.apple.quarantine	  71 
+drwxr-xr-x@ 34 mselin  staff  1156 May  6 07:30 ..
+	com.apple.quarantine	  71 
+-rw-r--r--@  1 mselin  staff  8554 Mar 11  2016 Sparkle.strings
+	com.apple.quarantine	  71 
+
+./Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/pl.lproj:
+total 16
+drwxr-xr-x@  3 mselin  staff   102 Mar 20  2016 .
+	com.apple.quarantine	  71 
+drwxr-xr-x@ 34 mselin  staff  1156 May  6 07:30 ..
+	com.apple.quarantine	  71 
+-rw-r--r--@  1 mselin  staff  8142 Mar 11  2016 Sparkle.strings
+	com.apple.quarantine	  71 
+
+./Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/pt_BR.lproj:
+total 16
+drwxr-xr-x@  3 mselin  staff   102 Mar 20  2016 .
+	com.apple.quarantine	  71 
+drwxr-xr-x@ 34 mselin  staff  1156 May  6 07:30 ..
+	com.apple.quarantine	  71 
+-rw-r--r--@  1 mselin  staff  7160 Mar 11  2016 Sparkle.strings
+	com.apple.quarantine	  71 
+
+./Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/pt_PT.lproj:
+total 16
+drwxr-xr-x@  3 mselin  staff   102 Mar 20  2016 .
+	com.apple.quarantine	  71 
+drwxr-xr-x@ 34 mselin  staff  1156 May  6 07:30 ..
+	com.apple.quarantine	  71 
+-rw-r--r--@  1 mselin  staff  7440 Mar 11  2016 Sparkle.strings
+	com.apple.quarantine	  71 
+
+./Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/ro.lproj:
+total 24
+drwxr-xr-x@  3 mselin  staff   102 Mar 20  2016 .
+	com.apple.quarantine	  71 
+drwxr-xr-x@ 34 mselin  staff  1156 May  6 07:30 ..
+	com.apple.quarantine	  71 
+-rw-r--r--@  1 mselin  staff  9418 Mar 11  2016 Sparkle.strings
+	com.apple.quarantine	  71 
+
+./Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/ru.lproj:
+total 16
+drwxr-xr-x@  3 mselin  staff   102 Mar 20  2016 .
+	com.apple.quarantine	  71 
+drwxr-xr-x@ 34 mselin  staff  1156 May  6 07:30 ..
+	com.apple.quarantine	  71 
+-rw-r--r--@  1 mselin  staff  7452 Mar 11  2016 Sparkle.strings
+	com.apple.quarantine	  71 
+
+./Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/sk.lproj:
+total 16
+drwxr-xr-x@  3 mselin  staff   102 Mar 20  2016 .
+	com.apple.quarantine	  71 
+drwxr-xr-x@ 34 mselin  staff  1156 May  6 07:30 ..
+	com.apple.quarantine	  71 
+-rw-r--r--@  1 mselin  staff  7174 Mar 11  2016 Sparkle.strings
+	com.apple.quarantine	  71 
+
+./Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/sl.lproj:
+total 16
+drwxr-xr-x@  3 mselin  staff   102 Mar 20  2016 .
+	com.apple.quarantine	  71 
+drwxr-xr-x@ 34 mselin  staff  1156 May  6 07:30 ..
+	com.apple.quarantine	  71 
+-rw-r--r--@  1 mselin  staff  7568 Mar 11  2016 Sparkle.strings
+	com.apple.quarantine	  71 
+
+./Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/sv.lproj:
+total 16
+drwxr-xr-x@  3 mselin  staff   102 Mar 20  2016 .
+	com.apple.quarantine	  71 
+drwxr-xr-x@ 34 mselin  staff  1156 May  6 07:30 ..
+	com.apple.quarantine	  71 
+-rw-r--r--@  1 mselin  staff  7412 Mar 11  2016 Sparkle.strings
+	com.apple.quarantine	  71 
+
+./Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/th.lproj:
+total 16
+drwxr-xr-x@  3 mselin  staff   102 Mar 20  2016 .
+	com.apple.quarantine	  71 
+drwxr-xr-x@ 34 mselin  staff  1156 May  6 07:30 ..
+	com.apple.quarantine	  71 
+-rw-r--r--@  1 mselin  staff  8124 Mar 11  2016 Sparkle.strings
+	com.apple.quarantine	  71 
+
+./Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/tr.lproj:
+total 24
+drwxr-xr-x@  3 mselin  staff   102 Mar 20  2016 .
+	com.apple.quarantine	  71 
+drwxr-xr-x@ 34 mselin  staff  1156 May  6 07:30 ..
+	com.apple.quarantine	  71 
+-rw-r--r--@  1 mselin  staff  9252 Mar 11  2016 Sparkle.strings
+	com.apple.quarantine	  71 
+
+./Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/uk.lproj:
+total 16
+drwxr-xr-x@  3 mselin  staff   102 Mar 20  2016 .
+	com.apple.quarantine	  71 
+drwxr-xr-x@ 34 mselin  staff  1156 May  6 07:30 ..
+	com.apple.quarantine	  71 
+-rw-r--r--@  1 mselin  staff  7472 Mar 11  2016 Sparkle.strings
+	com.apple.quarantine	  71 
+
+./Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/zh_CN.lproj:
+total 16
+drwxr-xr-x@  3 mselin  staff   102 Mar 20  2016 .
+	com.apple.quarantine	  71 
+drwxr-xr-x@ 34 mselin  staff  1156 May  6 07:30 ..
+	com.apple.quarantine	  71 
+-rw-r--r--@  1 mselin  staff  5490 Mar 11  2016 Sparkle.strings
+	com.apple.quarantine	  71 
+
+./Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/zh_TW.lproj:
+total 16
+drwxr-xr-x@  3 mselin  staff   102 Mar 20  2016 .
+	com.apple.quarantine	  71 
+drwxr-xr-x@ 34 mselin  staff  1156 May  6 07:30 ..
+	com.apple.quarantine	  71 
+-rw-r--r--@  1 mselin  staff  5416 Mar 11  2016 Sparkle.strings
+	com.apple.quarantine	  71 
+
+./Sparkle.framework/Versions/A/Resources/ar.lproj:
+total 104
+drwxr-xr-x@  6 mselin  staff    204 May  6 07:30 .
+	com.apple.quarantine	   71 
+drwxr-xr-x@ 38 mselin  staff   1292 May  6 07:30 ..
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   7184 Mar 11  2016 SUAutomaticUpdateAlert.nib
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  16687 Mar 11  2016 SUUpdateAlert.nib
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  12785 Mar 11  2016 SUUpdatePermissionPrompt.nib
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   8076 Mar 11  2016 Sparkle.strings
+	com.apple.quarantine	   71 
+
+./Sparkle.framework/Versions/A/Resources/ca.lproj:
+total 16
+drwxr-xr-x@  3 mselin  staff   102 Mar 20  2016 .
+	com.apple.quarantine	  71 
+drwxr-xr-x@ 38 mselin  staff  1292 May  6 07:30 ..
+	com.apple.quarantine	  71 
+-rw-r--r--@  1 mselin  staff  6310 Mar 11  2016 Sparkle.strings
+	com.apple.quarantine	  71 
+
+./Sparkle.framework/Versions/A/Resources/cs.lproj:
+total 104
+drwxr-xr-x@  6 mselin  staff    204 May  6 07:30 .
+	com.apple.quarantine	   71 
+drwxr-xr-x@ 38 mselin  staff   1292 May  6 07:30 ..
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   7172 Mar 11  2016 SUAutomaticUpdateAlert.nib
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  16713 Mar 11  2016 SUUpdateAlert.nib
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  12883 Mar 11  2016 SUUpdatePermissionPrompt.nib
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   7440 Mar 11  2016 Sparkle.strings
+	com.apple.quarantine	   71 
+
+./Sparkle.framework/Versions/A/Resources/da.lproj:
+total 104
+drwxr-xr-x@  6 mselin  staff    204 May  6 07:30 .
+	com.apple.quarantine	   71 
+drwxr-xr-x@ 38 mselin  staff   1292 May  6 07:30 ..
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   7081 Mar 11  2016 SUAutomaticUpdateAlert.nib
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  16591 Mar 11  2016 SUUpdateAlert.nib
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  12672 Mar 11  2016 SUUpdatePermissionPrompt.nib
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   7996 Mar 11  2016 Sparkle.strings
+	com.apple.quarantine	   71 
+
+./Sparkle.framework/Versions/A/Resources/de.lproj:
+total 104
+drwxr-xr-x@  6 mselin  staff    204 May  6 07:30 .
+	com.apple.quarantine	   71 
+drwxr-xr-x@ 38 mselin  staff   1292 May  6 07:30 ..
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   7120 Mar 11  2016 SUAutomaticUpdateAlert.nib
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  16656 Mar 11  2016 SUUpdateAlert.nib
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  12834 Mar 11  2016 SUUpdatePermissionPrompt.nib
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   8046 Mar 11  2016 Sparkle.strings
+	com.apple.quarantine	   71 
+
+./Sparkle.framework/Versions/A/Resources/el.lproj:
+total 104
+drwxr-xr-x@  6 mselin  staff    204 May  6 07:30 .
+	com.apple.quarantine	   71 
+drwxr-xr-x@ 38 mselin  staff   1292 May  6 07:30 ..
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   7224 Mar 11  2016 SUAutomaticUpdateAlert.nib
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  16728 Mar 11  2016 SUUpdateAlert.nib
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  12915 Mar 11  2016 SUUpdatePermissionPrompt.nib
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   7338 Mar 11  2016 Sparkle.strings
+	com.apple.quarantine	   71 
+
+./Sparkle.framework/Versions/A/Resources/en.lproj:
+total 112
+drwxr-xr-x@  6 mselin  staff    204 May  6 07:30 .
+	com.apple.quarantine	   71 
+drwxr-xr-x@ 38 mselin  staff   1292 May  6 07:30 ..
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   7078 Mar 11  2016 SUAutomaticUpdateAlert.nib
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  16580 Mar 11  2016 SUUpdateAlert.nib
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  12614 Mar 11  2016 SUUpdatePermissionPrompt.nib
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   9108 Mar 11  2016 Sparkle.strings
+	com.apple.quarantine	   71 
+
+./Sparkle.framework/Versions/A/Resources/es.lproj:
+total 104
+drwxr-xr-x@  6 mselin  staff    204 May  6 07:30 .
+	com.apple.quarantine	   71 
+drwxr-xr-x@ 38 mselin  staff   1292 May  6 07:30 ..
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   7134 Mar 11  2016 SUAutomaticUpdateAlert.nib
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  16762 Mar 11  2016 SUUpdateAlert.nib
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  13007 Mar 11  2016 SUUpdatePermissionPrompt.nib
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   7746 Mar 11  2016 Sparkle.strings
+	com.apple.quarantine	   71 
+
+./Sparkle.framework/Versions/A/Resources/fi.lproj:
+total 16
+drwxr-xr-x@  3 mselin  staff   102 Mar 20  2016 .
+	com.apple.quarantine	  71 
+drwxr-xr-x@ 38 mselin  staff  1292 May  6 07:30 ..
+	com.apple.quarantine	  71 
+-rw-r--r--@  1 mselin  staff  5614 Mar 11  2016 Sparkle.strings
+	com.apple.quarantine	  71 
+
+./Sparkle.framework/Versions/A/Resources/fr.lproj:
+total 104
+drwxr-xr-x@  6 mselin  staff    204 May  6 07:30 .
+	com.apple.quarantine	   71 
+drwxr-xr-x@ 38 mselin  staff   1292 May  6 07:30 ..
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   7137 Mar 11  2016 SUAutomaticUpdateAlert.nib
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  16684 Mar 11  2016 SUUpdateAlert.nib
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  12993 Mar 11  2016 SUUpdatePermissionPrompt.nib
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   8188 Mar 11  2016 Sparkle.strings
+	com.apple.quarantine	   71 
+
+./Sparkle.framework/Versions/A/Resources/he.lproj:
+total 16
+drwxr-xr-x@  3 mselin  staff   102 Mar 20  2016 .
+	com.apple.quarantine	  71 
+drwxr-xr-x@ 38 mselin  staff  1292 May  6 07:30 ..
+	com.apple.quarantine	  71 
+-rw-r--r--@  1 mselin  staff  4872 Mar 11  2016 Sparkle.strings
+	com.apple.quarantine	  71 
+
+./Sparkle.framework/Versions/A/Resources/is.lproj:
+total 104
+drwxr-xr-x@  6 mselin  staff    204 May  6 07:30 .
+	com.apple.quarantine	   71 
+drwxr-xr-x@ 38 mselin  staff   1292 May  6 07:30 ..
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   7148 Mar 11  2016 SUAutomaticUpdateAlert.nib
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  16697 Mar 11  2016 SUUpdateAlert.nib
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  12913 Mar 11  2016 SUUpdatePermissionPrompt.nib
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   5478 Mar 11  2016 Sparkle.strings
+	com.apple.quarantine	   71 
+
+./Sparkle.framework/Versions/A/Resources/it.lproj:
+total 104
+drwxr-xr-x@  6 mselin  staff    204 May  6 07:30 .
+	com.apple.quarantine	   71 
+drwxr-xr-x@ 38 mselin  staff   1292 May  6 07:30 ..
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   7084 Mar 11  2016 SUAutomaticUpdateAlert.nib
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  16622 Mar 11  2016 SUUpdateAlert.nib
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  12850 Mar 11  2016 SUUpdatePermissionPrompt.nib
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   7926 Mar 11  2016 Sparkle.strings
+	com.apple.quarantine	   71 
+
+./Sparkle.framework/Versions/A/Resources/ja.lproj:
+total 104
+drwxr-xr-x@  6 mselin  staff    204 May  6 07:30 .
+	com.apple.quarantine	   71 
+drwxr-xr-x@ 38 mselin  staff   1292 May  6 07:30 ..
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   7088 Mar 11  2016 SUAutomaticUpdateAlert.nib
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  16602 Mar 11  2016 SUUpdateAlert.nib
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  12571 Mar 11  2016 SUUpdatePermissionPrompt.nib
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   7818 Mar 11  2016 Sparkle.strings
+	com.apple.quarantine	   71 
+
+./Sparkle.framework/Versions/A/Resources/ko.lproj:
+total 104
+drwxr-xr-x@  6 mselin  staff    204 May  6 07:30 .
+	com.apple.quarantine	   71 
+drwxr-xr-x@ 38 mselin  staff   1292 May  6 07:30 ..
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   7056 Mar 11  2016 SUAutomaticUpdateAlert.nib
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  16556 Mar 11  2016 SUUpdateAlert.nib
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  12550 Mar 11  2016 SUUpdatePermissionPrompt.nib
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   5874 Mar 11  2016 Sparkle.strings
+	com.apple.quarantine	   71 
+
+./Sparkle.framework/Versions/A/Resources/nb.lproj:
+total 112
+drwxr-xr-x@  6 mselin  staff    204 May  6 07:30 .
+	com.apple.quarantine	   71 
+drwxr-xr-x@ 38 mselin  staff   1292 May  6 07:30 ..
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   7100 Mar 11  2016 SUAutomaticUpdateAlert.nib
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  16551 Mar 11  2016 SUUpdateAlert.nib
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  12806 Mar 11  2016 SUUpdatePermissionPrompt.nib
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   9004 Mar 11  2016 Sparkle.strings
+	com.apple.quarantine	   71 
+
+./Sparkle.framework/Versions/A/Resources/nl.lproj:
+total 112
+drwxr-xr-x@  6 mselin  staff    204 May  6 07:30 .
+	com.apple.quarantine	   71 
+drwxr-xr-x@ 38 mselin  staff   1292 May  6 07:30 ..
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   7089 Mar 11  2016 SUAutomaticUpdateAlert.nib
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  16602 Mar 11  2016 SUUpdateAlert.nib
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  12648 Mar 11  2016 SUUpdatePermissionPrompt.nib
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   8554 Mar 11  2016 Sparkle.strings
+	com.apple.quarantine	   71 
+
+./Sparkle.framework/Versions/A/Resources/pl.lproj:
+total 104
+drwxr-xr-x@  6 mselin  staff    204 May  6 07:30 .
+	com.apple.quarantine	   71 
+drwxr-xr-x@ 38 mselin  staff   1292 May  6 07:30 ..
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   7175 Mar 11  2016 SUAutomaticUpdateAlert.nib
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  16701 Mar 11  2016 SUUpdateAlert.nib
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  12697 Mar 11  2016 SUUpdatePermissionPrompt.nib
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   8142 Mar 11  2016 Sparkle.strings
+	com.apple.quarantine	   71 
+
+./Sparkle.framework/Versions/A/Resources/pt_BR.lproj:
+total 104
+drwxr-xr-x@  6 mselin  staff    204 May  6 07:30 .
+	com.apple.quarantine	   71 
+drwxr-xr-x@ 38 mselin  staff   1292 May  6 07:30 ..
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   7152 Mar 11  2016 SUAutomaticUpdateAlert.nib
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  16742 Mar 11  2016 SUUpdateAlert.nib
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  12925 Mar 11  2016 SUUpdatePermissionPrompt.nib
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   7160 Mar 11  2016 Sparkle.strings
+	com.apple.quarantine	   71 
+
+./Sparkle.framework/Versions/A/Resources/pt_PT.lproj:
+total 104
+drwxr-xr-x@  6 mselin  staff    204 May  6 07:30 .
+	com.apple.quarantine	   71 
+drwxr-xr-x@ 38 mselin  staff   1292 May  6 07:30 ..
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   7158 Mar 11  2016 SUAutomaticUpdateAlert.nib
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  16762 Mar 11  2016 SUUpdateAlert.nib
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  12965 Mar 11  2016 SUUpdatePermissionPrompt.nib
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   7440 Mar 11  2016 Sparkle.strings
+	com.apple.quarantine	   71 
+
+./Sparkle.framework/Versions/A/Resources/ro.lproj:
+total 112
+drwxr-xr-x@  6 mselin  staff    204 May  6 07:30 .
+	com.apple.quarantine	   71 
+drwxr-xr-x@ 38 mselin  staff   1292 May  6 07:30 ..
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   7186 Mar 11  2016 SUAutomaticUpdateAlert.nib
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  16746 Mar 11  2016 SUUpdateAlert.nib
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  12683 Mar 11  2016 SUUpdatePermissionPrompt.nib
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   9418 Mar 11  2016 Sparkle.strings
+	com.apple.quarantine	   71 
+
+./Sparkle.framework/Versions/A/Resources/ru.lproj:
+total 104
+drwxr-xr-x@  6 mselin  staff    204 May  6 07:30 .
+	com.apple.quarantine	   71 
+drwxr-xr-x@ 38 mselin  staff   1292 May  6 07:30 ..
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   7226 Mar 11  2016 SUAutomaticUpdateAlert.nib
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  16797 Mar 11  2016 SUUpdateAlert.nib
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  12999 Mar 11  2016 SUUpdatePermissionPrompt.nib
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   7452 Mar 11  2016 Sparkle.strings
+	com.apple.quarantine	   71 
+
+./Sparkle.framework/Versions/A/Resources/sk.lproj:
+total 104
+drwxr-xr-x@  6 mselin  staff    204 May  6 07:30 .
+	com.apple.quarantine	   71 
+drwxr-xr-x@ 38 mselin  staff   1292 May  6 07:30 ..
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   7204 Mar 11  2016 SUAutomaticUpdateAlert.nib
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  16748 Mar 11  2016 SUUpdateAlert.nib
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  12911 Mar 11  2016 SUUpdatePermissionPrompt.nib
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   7174 Mar 11  2016 Sparkle.strings
+	com.apple.quarantine	   71 
+
+./Sparkle.framework/Versions/A/Resources/sl.lproj:
+total 104
+drwxr-xr-x@  6 mselin  staff    204 May  6 07:30 .
+	com.apple.quarantine	   71 
+drwxr-xr-x@ 38 mselin  staff   1292 May  6 07:30 ..
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   7114 Mar 11  2016 SUAutomaticUpdateAlert.nib
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  16660 Mar 11  2016 SUUpdateAlert.nib
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  12830 Mar 11  2016 SUUpdatePermissionPrompt.nib
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   7568 Mar 11  2016 Sparkle.strings
+	com.apple.quarantine	   71 
+
+./Sparkle.framework/Versions/A/Resources/sv.lproj:
+total 104
+drwxr-xr-x@  6 mselin  staff    204 May  6 07:30 .
+	com.apple.quarantine	   71 
+drwxr-xr-x@ 38 mselin  staff   1292 May  6 07:30 ..
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   7163 Mar 11  2016 SUAutomaticUpdateAlert.nib
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  16723 Mar 11  2016 SUUpdateAlert.nib
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  12826 Mar 11  2016 SUUpdatePermissionPrompt.nib
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   7412 Mar 11  2016 Sparkle.strings
+	com.apple.quarantine	   71 
+
+./Sparkle.framework/Versions/A/Resources/th.lproj:
+total 104
+drwxr-xr-x@  6 mselin  staff    204 May  6 07:30 .
+	com.apple.quarantine	   71 
+drwxr-xr-x@ 38 mselin  staff   1292 May  6 07:30 ..
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   7150 Mar 11  2016 SUAutomaticUpdateAlert.nib
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  16665 Mar 11  2016 SUUpdateAlert.nib
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  12745 Mar 11  2016 SUUpdatePermissionPrompt.nib
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   8124 Mar 11  2016 Sparkle.strings
+	com.apple.quarantine	   71 
+
+./Sparkle.framework/Versions/A/Resources/tr.lproj:
+total 112
+drwxr-xr-x@  6 mselin  staff    204 May  6 07:30 .
+	com.apple.quarantine	   71 
+drwxr-xr-x@ 38 mselin  staff   1292 May  6 07:30 ..
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   7188 Mar 11  2016 SUAutomaticUpdateAlert.nib
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  16670 Mar 11  2016 SUUpdateAlert.nib
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  12870 Mar 11  2016 SUUpdatePermissionPrompt.nib
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   9252 Mar 11  2016 Sparkle.strings
+	com.apple.quarantine	   71 
+
+./Sparkle.framework/Versions/A/Resources/uk.lproj:
+total 104
+drwxr-xr-x@  6 mselin  staff    204 May  6 07:30 .
+	com.apple.quarantine	   71 
+drwxr-xr-x@ 38 mselin  staff   1292 May  6 07:30 ..
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   7244 Mar 11  2016 SUAutomaticUpdateAlert.nib
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  16817 Mar 11  2016 SUUpdateAlert.nib
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  12908 Mar 11  2016 SUUpdatePermissionPrompt.nib
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   7472 Mar 11  2016 Sparkle.strings
+	com.apple.quarantine	   71 
+
+./Sparkle.framework/Versions/A/Resources/zh_CN.lproj:
+total 104
+drwxr-xr-x@  6 mselin  staff    204 May  6 07:30 .
+	com.apple.quarantine	   71 
+drwxr-xr-x@ 38 mselin  staff   1292 May  6 07:30 ..
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   7022 Mar 11  2016 SUAutomaticUpdateAlert.nib
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  16500 Mar 11  2016 SUUpdateAlert.nib
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  12469 Mar 11  2016 SUUpdatePermissionPrompt.nib
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   5490 Mar 11  2016 Sparkle.strings
+	com.apple.quarantine	   71 
+
+./Sparkle.framework/Versions/A/Resources/zh_TW.lproj:
+total 104
+drwxr-xr-x@  6 mselin  staff    204 May  6 07:30 .
+	com.apple.quarantine	   71 
+drwxr-xr-x@ 38 mselin  staff   1292 May  6 07:30 ..
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   7028 Mar 11  2016 SUAutomaticUpdateAlert.nib
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  16517 Mar 11  2016 SUUpdateAlert.nib
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  12479 Mar 11  2016 SUUpdatePermissionPrompt.nib
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   5416 Mar 11  2016 Sparkle.strings
+	com.apple.quarantine	   71 
+
+./ThirdPartySources:
+total 296
+drwxr-xr-x@  13 mselin  staff    442 May  6 07:30 .
+	com.apple.quarantine	   71 
+drwxr-xr-x@ 136 mselin  staff   4624 May  6 07:43 ..
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff   8695 Nov 12  2007 AsyncSocket.h
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff  60502 Oct  1  2015 AsyncSocket.m
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff    446 Feb 27  2007 HTTPAuthenticationRequest.h
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff   5669 Nov 12  2007 HTTPAuthenticationRequest.m
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff   1915 Oct  1  2015 HTTPServer.h
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff  35502 Oct  1  2015 HTTPServer.mm
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff   1365 Jul 12  2007 LICENSE.txt
+	com.apple.quarantine	   71 
+drwxr-xr-x@   4 mselin  staff    136 May  6 07:30 SPInvocationGrabbing
+	com.apple.quarantine	   71 
+-rwxr-xr-x@   1 mselin  staff   1084 Oct 24  2012 SPMediaKeyTap.h
+	com.apple.quarantine	   71 
+-rwxr-xr-x@   1 mselin  staff   9725 Mar 20  2016 SPMediaKeyTap.m
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rwxr-xr-x@   1 mselin  staff    591 Oct 24  2012 SPMediaKeyTapDelegate.m
+	com.apple.quarantine	   71 
+
+./ThirdPartySources/SPInvocationGrabbing:
+total 16
+drwxr-xr-x@  4 mselin  staff   136 May  6 07:30 .
+	com.apple.quarantine	  71 
+drwxr-xr-x@ 13 mselin  staff   442 May  6 07:30 ..
+	com.apple.quarantine	  71 
+-rwxr-xr-x@  1 mselin  staff   841 Oct 24  2012 NSObject+SPInvocationGrabbing.h
+	com.apple.quarantine	  71 
+-rwxr-xr-x@  1 mselin  staff  2768 Mar 20  2016 NSObject+SPInvocationGrabbing.m
+	com.apple.TextEncoding	  15 
+	com.apple.quarantine	  71 
+
+./lame:
+total 104
+drwxr-xr-x@   5 mselin  staff    170 May  6 07:30 .
+	com.apple.quarantine	   71 
+drwxr-xr-x@ 136 mselin  staff   4624 May  6 07:43 ..
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff  40525 Jan 13  2008 lame.h
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff   9060 Jan 13  2008 lameconfig.h
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+drwxr-xr-x@  44 mselin  staff   1496 May  6 07:30 libmp3lame
+	com.apple.quarantine	   71 
+
+./lame/libmp3lame:
+total 1432
+drwxr-xr-x@ 44 mselin  staff   1496 May  6 07:30 .
+	com.apple.quarantine	   71 
+drwxr-xr-x@  5 mselin  staff    170 May  6 07:30 ..
+	com.apple.quarantine	   71 
+drwxr-xr-x@ 23 mselin  staff    782 Jan 19  2004 .deps
+	com.apple.quarantine	   71 
+drwxr-xr-x@  5 mselin  staff    170 May  6 07:30 .libs
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  26904 Jan 13  2008 VbrTag.c
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   3096 Jan 13  2008 VbrTag.h
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  29908 Jan 13  2008 bitstream.c
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   1409 Jan 13  2008 bitstream.h
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  19906 Jan 13  2008 encoder.c
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   3866 Jan 13  2008 encoder.h
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   9005 Jan 13  2008 fft.c
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   1216 Jan 13  2008 fft.h
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  19020 Sep 24  2006 gain_analysis.c
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   4530 Sep 24  2006 gain_analysis.h
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  19039 Jan 13  2008 id3tag.c
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff    869 Jan 13  2008 id3tag.h
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   2235 Jan 13  2008 l3side.h
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   2635 Jan 13  2008 lame-analysis.h
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  68012 Jan 13  2008 lame.c
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   8532 Jan 13  2008 lame_global_flags.h
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   3629 Jan 13  2008 machine.h
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   9314 Jan 13  2008 mpglib_interface.c
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  31671 Jan 13  2008 newmdct.c
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff    987 Jan 13  2008 newmdct.h
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  22954 Jan 13  2008 presets.c
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  61963 Jan 13  2008 psymodel.c
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   2265 Jan 13  2008 psymodel.h
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  66540 Jan 13  2008 quantize.c
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   1308 Jan 13  2008 quantize.h
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  28638 Jan 13  2008 quantize_pvt.c
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   4692 Jan 13  2008 quantize_pvt.h
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   9820 Jan 13  2008 reservoir.c
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   1175 Jan 13  2008 reservoir.h
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  40129 Jan 13  2008 set_get.c
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   2864 Sep 24  2006 set_get.h
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  20349 Jan 13  2008 tables.c
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   2567 Jan 13  2008 tables.h
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  36181 Jan 13  2008 takehiro.c
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  21015 Jan 13  2008 util.c
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  18671 Jan 13  2008 util.h
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  36260 Jan 13  2008 vbrquantize.c
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   1063 Jan 13  2008 vbrquantize.h
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   6650 Jan 13  2008 version.c
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   2195 Jan 13  2008 version.h
+	com.apple.quarantine	   71 
+
+./lame/libmp3lame/.deps:
+total 168
+drwxr-xr-x@ 23 mselin  staff   782 Jan 19  2004 .
+	com.apple.quarantine	  71 
+drwxr-xr-x@ 44 mselin  staff  1496 May  6 07:30 ..
+	com.apple.quarantine	  71 
+-rw-r--r--@  1 mselin  staff  1981 Sep 18  2002 VbrTag.Plo
+	com.apple.quarantine	  71 
+-rw-r--r--@  1 mselin  staff  2067 Sep 18  2002 bitstream.Plo
+	com.apple.quarantine	  71 
+-rw-r--r--@  1 mselin  staff  2097 Sep 18  2002 encoder.Plo
+	com.apple.quarantine	  71 
+-rw-r--r--@  1 mselin  staff  1839 Sep 18  2002 fft.Plo
+	com.apple.quarantine	  71 
+-rw-r--r--@  1 mselin  staff  1899 Sep 18  2002 id3tag.Plo
+	com.apple.quarantine	  71 
+-rw-r--r--@  1 mselin  staff  2029 Sep 18  2002 lame.Plo
+	com.apple.quarantine	  71 
+-rw-r--r--@  1 mselin  staff    73 Sep 18  2002 mpglib_interface.Plo
+	com.apple.quarantine	  71 
+-rw-r--r--@  1 mselin  staff  1851 Sep 18  2002 newmdct.Plo
+	com.apple.quarantine	  71 
+-rw-r--r--@  1 mselin  staff  1847 Sep 18  2002 pcm.Plo
+	com.apple.quarantine	  71 
+-rw-r--r--@  1 mselin  staff   805 Sep 18  2002 presets.Plo
+	com.apple.quarantine	  71 
+-rw-r--r--@  1 mselin  staff  1975 Sep 18  2002 psymodel.Plo
+	com.apple.quarantine	  71 
+-rw-r--r--@  1 mselin  staff  2037 Sep 18  2002 quantize.Plo
+	com.apple.quarantine	  71 
+-rw-r--r--@  1 mselin  staff  2003 Sep 18  2002 quantize_pvt.Plo
+	com.apple.quarantine	  71 
+-rw-r--r--@  1 mselin  staff  1945 Sep 18  2002 reservoir.Plo
+	com.apple.quarantine	  71 
+-rw-r--r--@  1 mselin  staff  1941 Sep 18  2002 set_get.Plo
+	com.apple.quarantine	  71 
+-rw-r--r--@  1 mselin  staff  1847 Sep 18  2002 tables.Plo
+	com.apple.quarantine	  71 
+-rw-r--r--@  1 mselin  staff  1969 Sep 18  2002 takehiro.Plo
+	com.apple.quarantine	  71 
+-rw-r--r--@  1 mselin  staff  1927 Sep 18  2002 util.Plo
+	com.apple.quarantine	  71 
+-rw-r--r--@  1 mselin  staff  2015 Sep 18  2002 vbrquantize.Plo
+	com.apple.quarantine	  71 
+-rw-r--r--@  1 mselin  staff   853 Sep 18  2002 version.Plo
+	com.apple.quarantine	  71 
+-rw-r--r--@  1 mselin  staff    73 Sep 18  2002 vorbis_interface.Plo
+	com.apple.quarantine	  71 
+
+./lame/libmp3lame/.libs:
+total 616
+drwxr-xr-x@  5 mselin  staff     170 May  6 07:30 .
+	com.apple.quarantine	    71 
+drwxr-xr-x@ 44 mselin  staff    1496 May  6 07:30 ..
+	com.apple.quarantine	    71 
+-rw-r--r--@  1 mselin  staff  303976 Sep 20  2002 libmp3lame.a
+	com.apple.quarantine	    71 
+lrwxr-xr-x@  1 mselin  staff      16 May  6 07:30 libmp3lame.la -> ../libmp3lame.la
+	com.apple.quarantine	    71 
+-rw-r--r--@  1 mselin  staff     625 Sep 20  2002 libmp3lame.lai
+	com.apple.quarantine	    71 
+
+./libsidplay2:
+total 600
+drwxr-xr-x@  29 mselin  staff    986 May  6 07:30 .
+	com.apple.quarantine	   71 
+drwxr-xr-x@ 136 mselin  staff   4624 May  6 07:43 ..
+	com.apple.quarantine	   71 
+-rwxr-xr-x@   1 mselin  staff  51200 Dec  7  2005 basic.bin
+	com.apple.quarantine	   71 
+drwxr-xr-x@   8 mselin  staff    272 Dec  7  2005 c64
+	com.apple.quarantine	   71 
+drwxr-xr-x@   5 mselin  staff    170 Dec  7  2005 catweasel
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff  25600 Dec  7  2005 char.bin
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff  22033 Dec  7  2005 config.cpp
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff   4670 Aug 26  2009 event.cpp
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+drwxr-xr-x@   5 mselin  staff    170 Dec  7  2005 hardsid
+	com.apple.quarantine	   71 
+drwxr-xr-x@   5 mselin  staff    170 Dec  7  2005 include
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff  50176 Dec  7  2005 kernal.bin
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff   6678 Dec  7  2005 mixer.cpp
+	com.apple.quarantine	   71 
+drwxr-xr-x@  10 mselin  staff    340 May  6 07:30 mos6510
+	com.apple.quarantine	   71 
+drwxr-xr-x@   7 mselin  staff    238 Dec  7  2005 mos6526
+	com.apple.quarantine	   71 
+drwxr-xr-x@   7 mselin  staff    238 Dec  7  2005 mos656x
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff   1745 Dec  7  2005 nullsid.h
+	com.apple.quarantine	   71 
+-r--r--r--@   1 mselin  staff  41261 Mar 30  2009 player.cpp
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff  17796 Oct  4  2015 player.h
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff   1777 Dec  7  2005 poweron.bin
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff  10182 Dec  7  2005 psiddrv.a65
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff   1685 Dec  7  2005 psiddrv.bin
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff  14132 Dec  7  2005 psiddrv.cpp
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff   6272 Dec  7  2005 ram.bin
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff   5529 Dec  7  2005 reloc65.cpp
+	com.apple.quarantine	   71 
+drwxr-xr-x@   7 mselin  staff    238 Dec  7  2005 resid
+	com.apple.quarantine	   71 
+drwxr-xr-x@   7 mselin  staff    238 Dec  7  2005 sid6526
+	com.apple.quarantine	   71 
+-r--r--r--@   1 mselin  staff   5631 Mar 30  2009 sidplay2.cpp
+	com.apple.quarantine	   71 
+drwxr-xr-x@  18 mselin  staff    612 Dec 13  2005 sidtune
+	com.apple.quarantine	   71 
+drwxr-xr-x@   7 mselin  staff    238 Oct  1  2015 xsid
+	com.apple.quarantine	   71 
+
+./libsidplay2/c64:
+total 48
+drwxr-xr-x@  8 mselin  staff   272 Dec  7  2005 .
+	com.apple.quarantine	  71 
+drwxr-xr-x@ 29 mselin  staff   986 May  6 07:30 ..
+	com.apple.quarantine	  71 
+-rw-r--r--@  1 mselin  staff     0 Dec  7  2005 Makefile
+	com.apple.quarantine	  71 
+-rw-r--r--@  1 mselin  staff    45 Dec  7  2005 Makefile.am
+	com.apple.quarantine	  71 
+-rw-r--r--@  1 mselin  staff  5305 Dec  7  2005 Makefile.in
+	com.apple.quarantine	  71 
+-rw-r--r--@  1 mselin  staff  2180 Dec  7  2005 c64cia.h
+	com.apple.quarantine	  71 
+-rw-r--r--@  1 mselin  staff  1614 Dec  7  2005 c64vic.h
+	com.apple.quarantine	  71 
+-rw-r--r--@  1 mselin  staff  3134 Dec  7  2005 c64xsid.h
+	com.apple.quarantine	  71 
+
+./libsidplay2/catweasel:
+total 40
+drwxr-xr-x@  5 mselin  staff   170 Dec  7  2005 .
+	com.apple.quarantine	  71 
+drwxr-xr-x@ 29 mselin  staff   986 May  6 07:30 ..
+	com.apple.quarantine	  71 
+-rw-r--r--@  1 mselin  staff  4392 Dec  7  2005 catweasel-builder.cpp
+	com.apple.quarantine	  71 
+-rw-r--r--@  1 mselin  staff  3311 Dec  7  2005 catweasel-emu.h
+	com.apple.quarantine	  71 
+-rw-r--r--@  1 mselin  staff  4470 Dec  7  2005 catweasel.cpp
+	com.apple.quarantine	  71 
+
+./libsidplay2/hardsid:
+total 40
+drwxr-xr-x@  5 mselin  staff   170 Dec  7  2005 .
+	com.apple.quarantine	  71 
+drwxr-xr-x@ 29 mselin  staff   986 May  6 07:30 ..
+	com.apple.quarantine	  71 
+-rw-r--r--@  1 mselin  staff  4357 Dec  7  2005 hardsid-builder.cpp
+	com.apple.quarantine	  71 
+-rw-r--r--@  1 mselin  staff  3254 Dec  7  2005 hardsid-emu.h
+	com.apple.quarantine	  71 
+-rw-r--r--@  1 mselin  staff  4402 Dec  7  2005 hardsid.cpp
+	com.apple.quarantine	  71 
+
+./libsidplay2/include:
+total 24
+drwxr-xr-x@  5 mselin  staff   170 Dec  7  2005 .
+	com.apple.quarantine	  71 
+drwxr-xr-x@ 29 mselin  staff   986 May  6 07:30 ..
+	com.apple.quarantine	  71 
+-rw-r--r--@  1 mselin  staff  3269 Dec 12  2005 config.h
+	com.apple.quarantine	  71 
+-rw-r--r--@  1 mselin  staff  4831 Dec  7  2005 sidenv.h
+	com.apple.quarantine	  71 
+drwxr-xr-x@ 16 mselin  staff   544 May  6 07:30 sidplay
+	com.apple.quarantine	  71 
+
+./libsidplay2/include/sidplay:
+total 160
+drwxr-xr-x@ 16 mselin  staff    544 May  6 07:30 .
+	com.apple.quarantine	   71 
+drwxr-xr-x@  5 mselin  staff    170 Dec  7  2005 ..
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   2373 Dec  7  2005 Buffer.h
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  15296 Dec  7  2005 SidTune.h
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   3292 Dec  7  2005 SmartPtr.h
+	com.apple.quarantine	   71 
+drwxr-xr-x@  5 mselin  staff    170 Dec  7  2005 builders
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   1860 Dec  7  2005 c64env.h
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   1408 Dec  7  2005 component.h
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   4388 Dec  7  2005 event.h
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   4209 Dec  7  2005 sid2types.h
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   2791 Dec  7  2005 sidbuilder.h
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   1643 Dec 12  2005 sidconfig.h
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  11941 Dec  7  2005 sidendian.h
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff    319 Dec  7  2005 sidint.h
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   2480 Aug 29  2009 sidplay2.h
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   2148 Mar 15  2009 sidtypes.h
+	com.apple.quarantine	   71 
+
+./libsidplay2/include/sidplay/builders:
+total 24
+drwxr-xr-x@  5 mselin  staff   170 Dec  7  2005 .
+	com.apple.quarantine	  71 
+drwxr-xr-x@ 16 mselin  staff   544 May  6 07:30 ..
+	com.apple.quarantine	  71 
+-rw-r--r--@  1 mselin  staff  2014 Dec  7  2005 catweasel.h
+	com.apple.quarantine	  71 
+-rw-r--r--@  1 mselin  staff  2001 Dec  7  2005 hardsid.h
+	com.apple.quarantine	  71 
+-rw-r--r--@  1 mselin  staff  2637 Mar 15  2009 resid.h
+	com.apple.quarantine	  71 
+
+./libsidplay2/mos6510:
+total 112
+drwxr-xr-x@ 10 mselin  staff    340 May  6 07:30 .
+	com.apple.quarantine	   71 
+drwxr-xr-x@ 29 mselin  staff    986 May  6 07:30 ..
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff      0 Dec  7  2005 Makefile
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff    181 Dec  7  2005 Makefile.am
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   9113 Dec  7  2005 Makefile.in
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   1893 Dec  7  2005 conf6510.h
+	com.apple.quarantine	   71 
+drwxr-xr-x@  6 mselin  staff    204 May  6 07:30 cycle_based
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  21611 Dec  7  2005 mos6510.cpp
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   2724 Dec  7  2005 mos6510.h
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   6778 Dec  7  2005 opcodes.h
+	com.apple.quarantine	   71 
+
+./libsidplay2/mos6510/cycle_based:
+total 248
+drwxr-xr-x@  6 mselin  staff    204 May  6 07:30 .
+	com.apple.quarantine	   71 
+drwxr-xr-x@ 10 mselin  staff    340 May  6 07:30 ..
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  13375 Dec  7  2005 mos6510c.h
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  85635 Oct  4  2015 mos6510c.i
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   4805 Dec  7  2005 sid6510c.h
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  14826 Dec  7  2005 sid6510c.i
+	com.apple.quarantine	   71 
+
+./libsidplay2/mos6526:
+total 80
+drwxr-xr-x@  7 mselin  staff    238 Dec  7  2005 .
+	com.apple.quarantine	   71 
+drwxr-xr-x@ 29 mselin  staff    986 May  6 07:30 ..
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff      0 Dec  7  2005 Makefile
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff    132 Dec  7  2005 Makefile.am
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   9064 Dec  7  2005 Makefile.in
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  16212 Dec  7  2005 mos6526.cpp
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   5682 Dec  7  2005 mos6526.h
+	com.apple.quarantine	   71 
+
+./libsidplay2/mos656x:
+total 64
+drwxr-xr-x@  7 mselin  staff    238 Dec  7  2005 .
+	com.apple.quarantine	   71 
+drwxr-xr-x@ 29 mselin  staff    986 May  6 07:30 ..
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff      0 Dec  7  2005 Makefile
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff    132 Dec  7  2005 Makefile.am
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   9064 Dec  7  2005 Makefile.in
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  11304 Dec  7  2005 mos656x.cpp
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   2777 Dec  7  2005 mos656x.h
+	com.apple.quarantine	   71 
+
+./libsidplay2/resid:
+total 72
+drwxr-xr-x@  7 mselin  staff    238 Dec  7  2005 .
+	com.apple.quarantine	   71 
+drwxr-xr-x@ 29 mselin  staff    986 May  6 07:30 ..
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff    350 Dec  7  2005 Makefile.am
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  10394 Dec  7  2005 Makefile.in
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   5982 Mar 15  2009 resid-builder.cpp
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   2776 Mar 15  2009 resid-emu.h
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   6176 Mar 15  2009 resid.cpp
+	com.apple.quarantine	   71 
+
+./libsidplay2/sid6526:
+total 56
+drwxr-xr-x@  7 mselin  staff   238 Dec  7  2005 .
+	com.apple.quarantine	  71 
+drwxr-xr-x@ 29 mselin  staff   986 May  6 07:30 ..
+	com.apple.quarantine	  71 
+-rw-r--r--@  1 mselin  staff     0 Dec  7  2005 Makefile
+	com.apple.quarantine	  71 
+-rw-r--r--@  1 mselin  staff   132 Dec  7  2005 Makefile.am
+	com.apple.quarantine	  71 
+-rw-r--r--@  1 mselin  staff  9064 Dec  7  2005 Makefile.in
+	com.apple.quarantine	  71 
+-rw-r--r--@  1 mselin  staff  4742 Dec  7  2005 sid6526.cpp
+	com.apple.quarantine	  71 
+-rw-r--r--@  1 mselin  staff  3090 Dec  7  2005 sid6526.h
+	com.apple.quarantine	  71 
+
+./libsidplay2/sidtune:
+total 424
+drwxr-xr-x@ 18 mselin  staff    612 Dec 13  2005 .
+	com.apple.quarantine	   71 
+drwxr-xr-x@ 29 mselin  staff    986 May  6 07:30 ..
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  22792 Dec  7  2005 IconInfo.cpp
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  17334 Dec  7  2005 InfoFile.cpp
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  50746 Dec  7  2005 MUS.cpp
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff      0 Dec  7  2005 Makefile
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff    258 Dec  7  2005 Makefile.am
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   9848 Dec  7  2005 Makefile.in
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   7734 Dec  7  2005 PP20.cpp
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   2077 Dec  7  2005 PP20.h
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   1245 Dec  7  2005 PP20_Defs.h
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  11284 Dec 13  2005 PSID.cpp
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  41090 Dec  7  2005 SidTune.cpp
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff    996 Dec  7  2005 SidTuneCfg.h
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   5869 Dec  7  2005 SidTuneTools.cpp
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   3022 Dec  7  2005 SidTuneTools.h
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   4678 Dec  7  2005 p00.cpp
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   1801 Dec  7  2005 prg.cpp
+	com.apple.quarantine	   71 
+
+./libsidplay2/xsid:
+total 96
+drwxr-xr-x@  7 mselin  staff    238 Oct  1  2015 .
+	com.apple.quarantine	   71 
+drwxr-xr-x@ 29 mselin  staff    986 May  6 07:30 ..
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff      0 Dec  7  2005 Makefile
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff    120 Dec  7  2005 Makefile.am
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   8998 Dec  7  2005 Makefile.in
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff  17254 Dec  7  2005 xsid.cpp
+	com.apple.quarantine	   71 
+-rw-r--r--@  1 mselin  staff   9010 Oct  1  2015 xsid.h
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+
+./resid:
+total 2536
+drwxr-xr-x@  67 mselin  staff    2278 May  6 07:30 .
+	com.apple.quarantine	    71 
+drwxr-xr-x@ 136 mselin  staff    4624 May  6 07:43 ..
+	com.apple.quarantine	    71 
+-rw-r--r--@   1 mselin  staff      79 Dec  7  2005 AUTHORS
+	com.apple.quarantine	    71 
+-rw-r--r--@   1 mselin  staff   17989 Dec  7  2005 COPYING
+	com.apple.quarantine	    71 
+-rw-r--r--@   1 mselin  staff    7631 Dec  7  2005 ChangeLog
+	com.apple.quarantine	    71 
+-rw-r--r--@   1 mselin  staff    8309 Dec  7  2005 INSTALL
+	com.apple.quarantine	    71 
+-rw-r--r--@   1 mselin  staff   12044 Dec  7  2005 Makefile
+	com.apple.quarantine	    71 
+-rw-r--r--@   1 mselin  staff     704 Dec  7  2005 Makefile.am
+	com.apple.quarantine	    71 
+-rw-r--r--@   1 mselin  staff   11817 Dec  7  2005 Makefile.in
+	com.apple.quarantine	    71 
+-rw-r--r--@   1 mselin  staff    6102 Dec  7  2005 NEWS
+	com.apple.quarantine	    71 
+-rw-r--r--@   1 mselin  staff    1430 Dec  7  2005 README
+	com.apple.quarantine	    71 
+-rw-r--r--@   1 mselin  staff    3443 Dec  7  2005 THANKS
+	com.apple.quarantine	    71 
+-rw-r--r--@   1 mselin  staff     295 Dec  7  2005 TODO
+	com.apple.quarantine	    71 
+-rw-r--r--@   1 mselin  staff   17616 Dec  7  2005 aclocal.m4
+	com.apple.quarantine	    71 
+-rw-r--r--@   1 mselin  staff    1651 Dec  7  2005 config.cache
+	com.apple.quarantine	    71 
+-rwxr-xr-x@   1 mselin  staff   39311 Dec  7  2005 config.guess
+	com.apple.quarantine	    71 
+-rw-r--r--@   1 mselin  staff   15622 Dec  7  2005 config.log
+	com.apple.quarantine	    71 
+-rwxr-xr-x@   1 mselin  staff   14571 Dec  7  2005 config.status
+	com.apple.quarantine	    71 
+-rwxr-xr-x@   1 mselin  staff   27594 Dec  7  2005 config.sub
+	com.apple.quarantine	    71 
+-rwxr-xr-x@   1 mselin  staff  127226 Dec  7  2005 configure
+	com.apple.quarantine	    71 
+-rw-r--r--@   1 mselin  staff    1725 Dec  7  2005 configure.in
+	com.apple.quarantine	    71 
+-rw-r--r--@   1 mselin  staff    9377 Mar 15  2009 envelope.cc
+	com.apple.quarantine	    71 
+-rw-r--r--@   1 mselin  staff    8370 Mar 15  2009 envelope.h
+	com.apple.quarantine	    71 
+-rw-r--r--@   1 mselin  staff    2765 Dec  7  2005 extfilt.cc
+	com.apple.quarantine	    71 
+-rw-r--r--@   1 mselin  staff    5187 Dec  7  2005 extfilt.h
+	com.apple.quarantine	    71 
+-rw-r--r--@   1 mselin  staff   10746 Oct  4  2015 filter.cc
+	com.apple.TextEncoding	    15 
+	com.apple.quarantine	    71 
+-rw-r--r--@   1 mselin  staff    9128 Feb  9  2007 filter.cc.orig
+	com.apple.quarantine	    71 
+-rw-r--r--@   1 mselin  staff   17582 Feb 23  2008 filter.h
+	com.apple.quarantine	    71 
+-rw-r--r--@   1 mselin  staff   14495 Dec  7  2005 filter.h.orig
+	com.apple.quarantine	    71 
+-rw-r--r--@   1 mselin  staff    5872 Feb  9  2007 filter.h.rej
+	com.apple.quarantine	    71 
+-rwxr-xr-x@   1 mselin  staff    5584 Dec  7  2005 install-sh
+	com.apple.quarantine	    71 
+-rw-r--r--@   1 mselin  staff     604 Dec  7  2005 libresid.la
+	com.apple.quarantine	    71 
+-rwxr-xr-x@   1 mselin  staff  118424 Dec  7  2005 libtool
+	com.apple.quarantine	    71 
+-rwxr-xr-x@   1 mselin  staff   97712 Dec  7  2005 ltconfig
+	com.apple.quarantine	    71 
+-rw-r--r--@   1 mselin  staff  110868 Dec  7  2005 ltmain.sh
+	com.apple.quarantine	    71 
+-rwxr-xr-x@   1 mselin  staff    6274 Dec  7  2005 missing
+	com.apple.quarantine	    71 
+-rwxr-xr-x@   1 mselin  staff     721 Dec  7  2005 mkinstalldirs
+	com.apple.quarantine	    71 
+-rw-r--r--@   1 mselin  staff    1090 Dec  7  2005 pot.cc
+	com.apple.quarantine	    71 
+-rw-r--r--@   1 mselin  staff    1119 Dec  7  2005 pot.h
+	com.apple.quarantine	    71 
+-rwxr-xr-x@   1 mselin  staff    2554 Dec  7  2005 samp2src.pl
+	com.apple.quarantine	    71 
+-rw-r--r--@   1 mselin  staff   30734 Mar 15  2009 sid.cc
+	com.apple.quarantine	    71 
+-rw-r--r--@   1 mselin  staff   30558 Dec  7  2005 sid.cc.orig
+	com.apple.quarantine	    71 
+-rw-r--r--@   1 mselin  staff    4346 Aug 15  2009 sid.h
+	com.apple.TextEncoding	    15 
+	com.apple.quarantine	    71 
+-rw-r--r--@   1 mselin  staff    2267 Dec  7  2005 siddefs.h
+	com.apple.quarantine	    71 
+-rw-r--r--@   1 mselin  staff    2253 Dec  7  2005 siddefs.h.in
+	com.apple.quarantine	    71 
+-rw-r--r--@   1 mselin  staff    8749 Dec  7  2005 spline.h
+	com.apple.quarantine	    71 
+-rw-r--r--@   1 mselin  staff    1045 Dec  7  2005 version.cc
+	com.apple.quarantine	    71 
+-rw-r--r--@   1 mselin  staff    4842 Dec  7  2005 voice.cc
+	com.apple.quarantine	    71 
+-rw-r--r--@   1 mselin  staff    2394 Dec  7  2005 voice.h
+	com.apple.quarantine	    71 
+-rw-r--r--@   1 mselin  staff    4669 Mar 15  2009 wave.cc
+	com.apple.quarantine	    71 
+-rw-r--r--@   1 mselin  staff   16687 Apr 22  2010 wave.h
+	com.apple.TextEncoding	    15 
+	com.apple.quarantine	    71 
+-rw-r--r--@   1 mselin  staff   32810 Dec  7  2005 wave6581_PST.cc
+	com.apple.quarantine	    71 
+-rw-r--r--@   1 mselin  staff    4096 Dec  7  2005 wave6581_PST.dat
+	com.apple.quarantine	    71 
+-rw-r--r--@   1 mselin  staff   32810 Dec  7  2005 wave6581_PS_.cc
+	com.apple.quarantine	    71 
+-rw-r--r--@   1 mselin  staff    4096 Dec  7  2005 wave6581_PS_.dat
+	com.apple.quarantine	    71 
+-rw-r--r--@   1 mselin  staff   32810 Dec  7  2005 wave6581_P_T.cc
+	com.apple.quarantine	    71 
+-rw-r--r--@   1 mselin  staff    4096 Dec  7  2005 wave6581_P_T.dat
+	com.apple.quarantine	    71 
+-rw-r--r--@   1 mselin  staff   32810 Dec  7  2005 wave6581__ST.cc
+	com.apple.quarantine	    71 
+-rw-r--r--@   1 mselin  staff    4096 Dec  7  2005 wave6581__ST.dat
+	com.apple.quarantine	    71 
+-rw-r--r--@   1 mselin  staff   32810 Dec  7  2005 wave8580_PST.cc
+	com.apple.quarantine	    71 
+-rw-r--r--@   1 mselin  staff    4096 Dec  7  2005 wave8580_PST.dat
+	com.apple.quarantine	    71 
+-rw-r--r--@   1 mselin  staff   32810 Dec  7  2005 wave8580_PS_.cc
+	com.apple.quarantine	    71 
+-rw-r--r--@   1 mselin  staff    4096 Dec  7  2005 wave8580_PS_.dat
+	com.apple.quarantine	    71 
+-rw-r--r--@   1 mselin  staff   32810 Dec  7  2005 wave8580_P_T.cc
+	com.apple.quarantine	    71 
+-rw-r--r--@   1 mselin  staff    4096 Dec  7  2005 wave8580_P_T.dat
+	com.apple.quarantine	    71 
+-rw-r--r--@   1 mselin  staff   32810 Dec  7  2005 wave8580__ST.cc
+	com.apple.quarantine	    71 
+-rw-r--r--@   1 mselin  staff    4096 Dec  7  2005 wave8580__ST.dat
+	com.apple.quarantine	    71 
+
+./sidmdplugin:
+total 56
+drwxr-xr-x@   9 mselin  staff   306 May  6 07:30 .
+	com.apple.quarantine	  71 
+drwxr-xr-x@ 136 mselin  staff  4624 May  6 07:43 ..
+	com.apple.quarantine	  71 
+drwxr-xr-x@   4 mselin  staff   136 May  6 07:30 English.lproj
+	com.apple.quarantine	  71 
+-rw-r--r--@   1 mselin  staff  2889 Mar 18  2016 GetMetadataForFile.c
+	com.apple.TextEncoding	  15 
+	com.apple.quarantine	  71 
+-rw-r--r--@   1 mselin  staff  2024 Sep 30  2015 Info.plist
+	com.apple.quarantine	  71 
+-rw-r--r--@   1 mselin  staff  8329 Dec  7  2005 main.c
+	com.apple.quarantine	  71 
+-rw-r--r--@   1 mselin  staff  1268 Dec  7  2005 schema.xml
+	com.apple.quarantine	  71 
+drwxr-xr-x@   4 mselin  staff   136 May  6 07:30 sidmdplugin.xcodeproj
+	LastUpgradeCheck	   4 
+	com.apple.quarantine	  71 
+-rw-r--r--@   1 mselin  staff   467 Dec  7  2005 version.plist
+	com.apple.quarantine	  71 
+
+./sidmdplugin/English.lproj:
+total 16
+drwxr-xr-x@ 4 mselin  staff   136 May  6 07:30 .
+	com.apple.quarantine	  71 
+drwxr-xr-x@ 9 mselin  staff   306 May  6 07:30 ..
+	com.apple.quarantine	  71 
+-rw-r--r--@ 1 mselin  staff   552 Dec  7  2005 InfoPlist.strings
+	com.apple.quarantine	  71 
+-rw-r--r--@ 1 mselin  staff  1766 Dec  7  2005 schema.strings
+	com.apple.quarantine	  71 
+
+./sidmdplugin/sidmdplugin.xcodeproj:
+total 32
+drwxr-xr-x@ 4 mselin  staff    136 May  6 07:30 .
+	LastUpgradeCheck	    4 
+	com.apple.quarantine	   71 
+drwxr-xr-x@ 9 mselin  staff    306 May  6 07:30 ..
+	com.apple.quarantine	   71 
+-rw-r--r--@ 1 mselin  staff  14181 Oct  1  2015 project.pbxproj
+	com.apple.quarantine	   71 
+drwxr-xr-x  3 mselin  staff    102 May  6 07:30 xcuserdata
+
+./sidmdplugin/sidmdplugin.xcodeproj/xcuserdata:
+total 0
+drwxr-xr-x  3 mselin  staff  102 May  6 07:30 .
+drwxr-xr-x@ 4 mselin  staff  136 May  6 07:30 ..
+	LastUpgradeCheck	  4 
+	com.apple.quarantine	 71 
+drwxr-xr-x  3 mselin  staff  102 May  6 07:30 mselin.xcuserdatad
+
+./sidmdplugin/sidmdplugin.xcodeproj/xcuserdata/mselin.xcuserdatad:
+total 0
+drwxr-xr-x  3 mselin  staff  102 May  6 07:30 .
+drwxr-xr-x  3 mselin  staff  102 May  6 07:30 ..
+drwxr-xr-x  4 mselin  staff  136 May  6 07:30 xcschemes
+
+./sidmdplugin/sidmdplugin.xcodeproj/xcuserdata/mselin.xcuserdatad/xcschemes:
+total 16
+drwxr-xr-x  4 mselin  staff   136 May  6 07:30 .
+drwxr-xr-x  3 mselin  staff   102 May  6 07:30 ..
+-rw-r--r--  1 mselin  staff  2871 May  6 07:30 SIDMusic.xcscheme
+-rw-r--r--  1 mselin  staff   480 May  6 07:30 xcschememanagement.plist
+
+./songlength:
+total 168
+drwxr-xr-x@  18 mselin  staff    612 May  6 07:30 .
+	com.apple.quarantine	   71 
+drwxr-xr-x@ 136 mselin  staff   4624 May  6 07:43 ..
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff   1277 Sep 12  2008 Base.h
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff  11315 Sep 13  2008 File.cpp
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff   1822 Sep 12  2008 File.h
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff    964 Dec  7  2005 Item.h
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff  10387 Dec  7  2005 MD5.cpp
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff   3649 Dec  7  2005 MD5.h
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff    217 Nov 18  2007 MD5_Defs.h
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff   2543 Nov 18  2007 SidTuneMod.cpp
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff   1170 Nov 18  2007 SidTuneMod.h
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff   3299 Oct 14  2015 SidTuneWrapper.cpp
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff   2017 Nov 18  2007 SidTuneWrapper.h
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff   2222 Sep 30  2015 SongLength.cpp
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff   1423 Sep 13  2008 SongLength.h
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff    731 Sep 13  2008 SongLengthDatabase.h
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff   5369 Feb 10  2009 SongLengthDatabase.mm
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
+-rw-r--r--@   1 mselin  staff   1019 Nov 18  2007 TypeWrapper.h
+	com.apple.TextEncoding	   15 
+	com.apple.quarantine	   71 
